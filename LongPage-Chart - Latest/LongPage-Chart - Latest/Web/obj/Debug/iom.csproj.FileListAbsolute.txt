@@ -1,0 +1,39 @@
+C:\Users\Chitauro\documents\visual studio 2010\Projects\iom\iom\bin\iom.dll
+C:\Users\Chitauro\documents\visual studio 2010\Projects\iom\iom\bin\iom.pdb
+C:\Users\Chitauro\documents\visual studio 2010\Projects\iom\iom\obj\Debug\iom.dll
+C:\Users\Chitauro\documents\visual studio 2010\Projects\iom\iom\obj\Debug\iom.pdb
+C:\Users\chitauro\Documents\Visual Studio 2010\Projects\iom\iom\obj\Debug\iom.csprojResolveAssemblyReference.cache
+C:\Users\Chitauro\Documents\Visual Studio 2010\Projects\orig-iom\iom\bin\iom.dll
+C:\Users\Chitauro\Documents\Visual Studio 2010\Projects\orig-iom\iom\bin\iom.pdb
+C:\Users\Chitauro\Documents\Visual Studio 2010\Projects\orig-iom\iom\obj\Debug\iom.dll
+C:\Users\Chitauro\Documents\Visual Studio 2010\Projects\orig-iom\iom\obj\Debug\iom.pdb
+C:\Users\cshambamuto\Documents\Visual Studio 2013\Projects\orig-iom\iom\bin\iom.dll.config
+C:\Users\cshambamuto\Documents\Visual Studio 2013\Projects\orig-iom\iom\bin\iom.dll
+C:\Users\cshambamuto\Documents\Visual Studio 2013\Projects\orig-iom\iom\bin\iom.pdb
+C:\Users\cshambamuto\Documents\Visual Studio 2013\Projects\orig-iom\iom\obj\Debug\iom.csprojResolveAssemblyReference.cache
+C:\Users\cshambamuto\Documents\Visual Studio 2013\Projects\orig-iom\iom\obj\Debug\iom.dll
+C:\Users\cshambamuto\Documents\Visual Studio 2013\Projects\orig-iom\iom\obj\Debug\iom.pdb
+C:\Users\ezirima\Google Drive\elvina\iom\aspnet\orig-iom\iom\bin\iom.dll.config
+C:\Users\ezirima\Google Drive\elvina\iom\aspnet\orig-iom\iom\bin\iom.dll
+C:\Users\ezirima\Google Drive\elvina\iom\aspnet\orig-iom\iom\bin\iom.pdb
+C:\Users\ezirima\Google Drive\elvina\iom\aspnet\orig-iom\iom\obj\Debug\iom.csprojResolveAssemblyReference.cache
+C:\Users\ezirima\Google Drive\elvina\iom\aspnet\orig-iom\iom\obj\Debug\iom.dll
+C:\Users\ezirima\Google Drive\elvina\iom\aspnet\orig-iom\iom\obj\Debug\iom.pdb
+D:\imis_fileTL\orig-iom\iom\obj\Debug\iom.csprojResolveAssemblyReference.cache
+D:\imis_fileTL\orig-iom\iom\obj\Debug\iom.dll
+D:\imis_fileTL\orig-iom\iom\obj\Debug\iom.pdb
+D:\imis_fileTL\orig-iom\iom\bin\iom.dll
+D:\imis_fileTL\orig-iom\iom\bin\iom.pdb
+C:\orig-iom\iom\bin\iom.dll
+C:\orig-iom\iom\bin\iom.pdb
+C:\orig-iom\iom\obj\Debug\iom.dll
+C:\orig-iom\iom\obj\Debug\iom.pdb
+C:\Users\ezirima\Documents\PNG IMS\orig-iom\iom\obj\Debug\iom.csprojAssemblyReference.cache
+C:\Users\ezirima\Documents\PNG IMS\orig-iom\iom\obj\Debug\iom.csproj.CoreCompileInputs.cache
+C:\Users\ezirima\Documents\PNG IMS\orig-iom\iom\obj\Debug\iom.dll
+C:\Users\ezirima\Documents\PNG IMS\orig-iom\iom\obj\Debug\iom.pdb
+C:\Users\ezirima\Documents\PNG IMS\orig-iom\iom\bin\iom.dll.config
+C:\Users\ezirima\Documents\PNG IMS\orig-iom\iom\bin\iom.dll
+C:\Users\ezirima\Documents\PNG IMS\orig-iom\iom\bin\iom.pdb
+C:\Users\ezirima\Documents\PNG IMS\orig-iom\iom\bin\stdole.dll
+C:\Users\ezirima\Documents\PNG IMS\orig-iom\iom\obj\Debug\iom.csproj.CopyComplete

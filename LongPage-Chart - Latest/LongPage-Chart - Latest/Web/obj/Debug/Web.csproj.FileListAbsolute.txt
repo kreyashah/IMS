@@ -1,0 +1,1080 @@
+E:\Workspace\C#\LongPage\Web\bin\ApplicationInsights.config
+E:\Workspace\C#\LongPage\Web\bin\roslyn\csc.exe
+E:\Workspace\C#\LongPage\Web\bin\roslyn\csc.exe.config
+E:\Workspace\C#\LongPage\Web\bin\roslyn\csc.rsp
+E:\Workspace\C#\LongPage\Web\bin\roslyn\csi.exe
+E:\Workspace\C#\LongPage\Web\bin\roslyn\csi.exe.config
+E:\Workspace\C#\LongPage\Web\bin\roslyn\csi.rsp
+E:\Workspace\C#\LongPage\Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Workspace\C#\LongPage\Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Workspace\C#\LongPage\Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Workspace\C#\LongPage\Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Workspace\C#\LongPage\Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Workspace\C#\LongPage\Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Workspace\C#\LongPage\Web\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Workspace\C#\LongPage\Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Workspace\C#\LongPage\Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Workspace\C#\LongPage\Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Workspace\C#\LongPage\Web\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Workspace\C#\LongPage\Web\bin\roslyn\System.AppContext.dll
+E:\Workspace\C#\LongPage\Web\bin\roslyn\System.Collections.Immutable.dll
+E:\Workspace\C#\LongPage\Web\bin\roslyn\System.Console.dll
+E:\Workspace\C#\LongPage\Web\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Workspace\C#\LongPage\Web\bin\roslyn\System.Diagnostics.Process.dll
+E:\Workspace\C#\LongPage\Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Workspace\C#\LongPage\Web\bin\roslyn\System.IO.Compression.dll
+E:\Workspace\C#\LongPage\Web\bin\roslyn\System.IO.FileSystem.dll
+E:\Workspace\C#\LongPage\Web\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+E:\Workspace\C#\LongPage\Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Workspace\C#\LongPage\Web\bin\roslyn\System.IO.Pipes.dll
+E:\Workspace\C#\LongPage\Web\bin\roslyn\System.Reflection.Metadata.dll
+E:\Workspace\C#\LongPage\Web\bin\roslyn\System.Security.AccessControl.dll
+E:\Workspace\C#\LongPage\Web\bin\roslyn\System.Security.Claims.dll
+E:\Workspace\C#\LongPage\Web\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Workspace\C#\LongPage\Web\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Workspace\C#\LongPage\Web\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Workspace\C#\LongPage\Web\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Workspace\C#\LongPage\Web\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Workspace\C#\LongPage\Web\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Workspace\C#\LongPage\Web\bin\roslyn\System.Threading.Thread.dll
+E:\Workspace\C#\LongPage\Web\bin\roslyn\System.ValueTuple.dll
+E:\Workspace\C#\LongPage\Web\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Workspace\C#\LongPage\Web\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Workspace\C#\LongPage\Web\bin\roslyn\System.Xml.XPath.dll
+E:\Workspace\C#\LongPage\Web\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Workspace\C#\LongPage\Web\bin\roslyn\vbc.exe
+E:\Workspace\C#\LongPage\Web\bin\roslyn\vbc.exe.config
+E:\Workspace\C#\LongPage\Web\bin\roslyn\vbc.rsp
+E:\Workspace\C#\LongPage\Web\bin\roslyn\VBCSCompiler.exe
+E:\Workspace\C#\LongPage\Web\bin\roslyn\VBCSCompiler.exe.config
+E:\Workspace\C#\LongPage\Web\bin\Web.dll.config
+E:\Workspace\C#\LongPage\Web\bin\Web.dll
+E:\Workspace\C#\LongPage\Web\bin\Web.pdb
+E:\Workspace\C#\LongPage\Web\bin\Antlr3.Runtime.dll
+E:\Workspace\C#\LongPage\Web\bin\AspNet.ScriptManager.bootstrap.dll
+E:\Workspace\C#\LongPage\Web\bin\AspNet.ScriptManager.jQuery.dll
+E:\Workspace\C#\LongPage\Web\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Workspace\C#\LongPage\Web\bin\Microsoft.AI.DependencyCollector.dll
+E:\Workspace\C#\LongPage\Web\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Workspace\C#\LongPage\Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Workspace\C#\LongPage\Web\bin\Microsoft.AI.Web.dll
+E:\Workspace\C#\LongPage\Web\bin\Microsoft.AI.WindowsServer.dll
+E:\Workspace\C#\LongPage\Web\bin\Microsoft.ApplicationInsights.dll
+E:\Workspace\C#\LongPage\Web\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\Workspace\C#\LongPage\Web\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\Workspace\C#\LongPage\Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Workspace\C#\LongPage\Web\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\Workspace\C#\LongPage\Web\bin\Microsoft.ScriptManager.WebForms.dll
+E:\Workspace\C#\LongPage\Web\bin\Microsoft.Web.Infrastructure.dll
+E:\Workspace\C#\LongPage\Web\bin\Newtonsoft.Json.dll
+E:\Workspace\C#\LongPage\Web\bin\System.Web.Optimization.dll
+E:\Workspace\C#\LongPage\Web\bin\WebGrease.dll
+E:\Workspace\C#\LongPage\Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Workspace\C#\LongPage\Web\bin\System.Web.Optimization.xml
+E:\Workspace\C#\LongPage\Web\bin\Antlr3.Runtime.pdb
+E:\Workspace\C#\LongPage\Web\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\Workspace\C#\LongPage\Web\bin\Newtonsoft.Json.xml
+E:\Workspace\C#\LongPage\Web\bin\Microsoft.ApplicationInsights.xml
+E:\Workspace\C#\LongPage\Web\bin\Microsoft.AI.DependencyCollector.xml
+E:\Workspace\C#\LongPage\Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Workspace\C#\LongPage\Web\bin\Microsoft.AI.WindowsServer.xml
+E:\Workspace\C#\LongPage\Web\bin\Microsoft.AI.Web.xml
+E:\Workspace\C#\LongPage\Web\obj\Debug\Web.csprojResolveAssemblyReference.cache
+E:\Workspace\C#\LongPage\Web\obj\Debug\Web.csproj.CoreCompileInputs.cache
+E:\Workspace\C#\LongPage\Web\obj\Debug\Web.dll
+E:\Workspace\C#\LongPage\Web\obj\Debug\Web.pdb
+C:\Users\ezirima\Documents\Data Collection\Long data Collection\18 March 2018\LongPage\Web\bin\ApplicationInsights.config
+C:\Users\ezirima\Documents\Data Collection\Long data Collection\18 March 2018\LongPage\Web\bin\roslyn\csc.exe
+C:\Users\ezirima\Documents\Data Collection\Long data Collection\18 March 2018\LongPage\Web\bin\roslyn\csc.exe.config
+C:\Users\ezirima\Documents\Data Collection\Long data Collection\18 March 2018\LongPage\Web\bin\roslyn\csc.rsp
+C:\Users\ezirima\Documents\Data Collection\Long data Collection\18 March 2018\LongPage\Web\bin\roslyn\csi.exe
+C:\Users\ezirima\Documents\Data Collection\Long data Collection\18 March 2018\LongPage\Web\bin\roslyn\csi.exe.config
+C:\Users\ezirima\Documents\Data Collection\Long data Collection\18 March 2018\LongPage\Web\bin\roslyn\csi.rsp
+C:\Users\ezirima\Documents\Data Collection\Long data Collection\18 March 2018\LongPage\Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ezirima\Documents\Data Collection\Long data Collection\18 March 2018\LongPage\Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ezirima\Documents\Data Collection\Long data Collection\18 March 2018\LongPage\Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ezirima\Documents\Data Collection\Long data Collection\18 March 2018\LongPage\Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ezirima\Documents\Data Collection\Long data Collection\18 March 2018\LongPage\Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ezirima\Documents\Data Collection\Long data Collection\18 March 2018\LongPage\Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ezirima\Documents\Data Collection\Long data Collection\18 March 2018\LongPage\Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ezirima\Documents\Data Collection\Long data Collection\18 March 2018\LongPage\Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ezirima\Documents\Data Collection\Long data Collection\18 March 2018\LongPage\Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ezirima\Documents\Data Collection\Long data Collection\18 March 2018\LongPage\Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ezirima\Documents\Data Collection\Long data Collection\18 March 2018\LongPage\Web\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ezirima\Documents\Data Collection\Long data Collection\18 March 2018\LongPage\Web\bin\roslyn\System.AppContext.dll
+C:\Users\ezirima\Documents\Data Collection\Long data Collection\18 March 2018\LongPage\Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ezirima\Documents\Data Collection\Long data Collection\18 March 2018\LongPage\Web\bin\roslyn\System.Console.dll
+C:\Users\ezirima\Documents\Data Collection\Long data Collection\18 March 2018\LongPage\Web\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ezirima\Documents\Data Collection\Long data Collection\18 March 2018\LongPage\Web\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\ezirima\Documents\Data Collection\Long data Collection\18 March 2018\LongPage\Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ezirima\Documents\Data Collection\Long data Collection\18 March 2018\LongPage\Web\bin\roslyn\System.IO.Compression.dll
+C:\Users\ezirima\Documents\Data Collection\Long data Collection\18 March 2018\LongPage\Web\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ezirima\Documents\Data Collection\Long data Collection\18 March 2018\LongPage\Web\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\ezirima\Documents\Data Collection\Long data Collection\18 March 2018\LongPage\Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ezirima\Documents\Data Collection\Long data Collection\18 March 2018\LongPage\Web\bin\roslyn\System.IO.Pipes.dll
+C:\Users\ezirima\Documents\Data Collection\Long data Collection\18 March 2018\LongPage\Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ezirima\Documents\Data Collection\Long data Collection\18 March 2018\LongPage\Web\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\ezirima\Documents\Data Collection\Long data Collection\18 March 2018\LongPage\Web\bin\roslyn\System.Security.Claims.dll
+C:\Users\ezirima\Documents\Data Collection\Long data Collection\18 March 2018\LongPage\Web\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ezirima\Documents\Data Collection\Long data Collection\18 March 2018\LongPage\Web\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ezirima\Documents\Data Collection\Long data Collection\18 March 2018\LongPage\Web\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ezirima\Documents\Data Collection\Long data Collection\18 March 2018\LongPage\Web\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ezirima\Documents\Data Collection\Long data Collection\18 March 2018\LongPage\Web\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\ezirima\Documents\Data Collection\Long data Collection\18 March 2018\LongPage\Web\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ezirima\Documents\Data Collection\Long data Collection\18 March 2018\LongPage\Web\bin\roslyn\System.Threading.Thread.dll
+C:\Users\ezirima\Documents\Data Collection\Long data Collection\18 March 2018\LongPage\Web\bin\roslyn\System.ValueTuple.dll
+C:\Users\ezirima\Documents\Data Collection\Long data Collection\18 March 2018\LongPage\Web\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ezirima\Documents\Data Collection\Long data Collection\18 March 2018\LongPage\Web\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ezirima\Documents\Data Collection\Long data Collection\18 March 2018\LongPage\Web\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ezirima\Documents\Data Collection\Long data Collection\18 March 2018\LongPage\Web\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ezirima\Documents\Data Collection\Long data Collection\18 March 2018\LongPage\Web\bin\roslyn\vbc.exe
+C:\Users\ezirima\Documents\Data Collection\Long data Collection\18 March 2018\LongPage\Web\bin\roslyn\vbc.exe.config
+C:\Users\ezirima\Documents\Data Collection\Long data Collection\18 March 2018\LongPage\Web\bin\roslyn\vbc.rsp
+C:\Users\ezirima\Documents\Data Collection\Long data Collection\18 March 2018\LongPage\Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\ezirima\Documents\Data Collection\Long data Collection\18 March 2018\LongPage\Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ezirima\Documents\Data Collection\Long data Collection\18 March 2018\LongPage\Web\bin\Web.dll.config
+C:\Users\ezirima\Documents\Data Collection\Long data Collection\18 March 2018\LongPage\Web\bin\Web.dll
+C:\Users\ezirima\Documents\Data Collection\Long data Collection\18 March 2018\LongPage\Web\bin\Web.pdb
+C:\Users\ezirima\Documents\Data Collection\Long data Collection\18 March 2018\LongPage\Web\bin\Antlr3.Runtime.dll
+C:\Users\ezirima\Documents\Data Collection\Long data Collection\18 March 2018\LongPage\Web\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\ezirima\Documents\Data Collection\Long data Collection\18 March 2018\LongPage\Web\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\ezirima\Documents\Data Collection\Long data Collection\18 March 2018\LongPage\Web\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ezirima\Documents\Data Collection\Long data Collection\18 March 2018\LongPage\Web\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ezirima\Documents\Data Collection\Long data Collection\18 March 2018\LongPage\Web\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ezirima\Documents\Data Collection\Long data Collection\18 March 2018\LongPage\Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ezirima\Documents\Data Collection\Long data Collection\18 March 2018\LongPage\Web\bin\Microsoft.AI.Web.dll
+C:\Users\ezirima\Documents\Data Collection\Long data Collection\18 March 2018\LongPage\Web\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ezirima\Documents\Data Collection\Long data Collection\18 March 2018\LongPage\Web\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ezirima\Documents\Data Collection\Long data Collection\18 March 2018\LongPage\Web\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\ezirima\Documents\Data Collection\Long data Collection\18 March 2018\LongPage\Web\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\ezirima\Documents\Data Collection\Long data Collection\18 March 2018\LongPage\Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ezirima\Documents\Data Collection\Long data Collection\18 March 2018\LongPage\Web\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\ezirima\Documents\Data Collection\Long data Collection\18 March 2018\LongPage\Web\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\ezirima\Documents\Data Collection\Long data Collection\18 March 2018\LongPage\Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ezirima\Documents\Data Collection\Long data Collection\18 March 2018\LongPage\Web\bin\Newtonsoft.Json.dll
+C:\Users\ezirima\Documents\Data Collection\Long data Collection\18 March 2018\LongPage\Web\bin\System.Web.Optimization.dll
+C:\Users\ezirima\Documents\Data Collection\Long data Collection\18 March 2018\LongPage\Web\bin\WebGrease.dll
+C:\Users\ezirima\Documents\Data Collection\Long data Collection\18 March 2018\LongPage\Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ezirima\Documents\Data Collection\Long data Collection\18 March 2018\LongPage\Web\bin\System.Web.Optimization.xml
+C:\Users\ezirima\Documents\Data Collection\Long data Collection\18 March 2018\LongPage\Web\bin\Antlr3.Runtime.pdb
+C:\Users\ezirima\Documents\Data Collection\Long data Collection\18 March 2018\LongPage\Web\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\ezirima\Documents\Data Collection\Long data Collection\18 March 2018\LongPage\Web\bin\Newtonsoft.Json.xml
+C:\Users\ezirima\Documents\Data Collection\Long data Collection\18 March 2018\LongPage\Web\bin\Microsoft.ApplicationInsights.xml
+C:\Users\ezirima\Documents\Data Collection\Long data Collection\18 March 2018\LongPage\Web\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ezirima\Documents\Data Collection\Long data Collection\18 March 2018\LongPage\Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\ezirima\Documents\Data Collection\Long data Collection\18 March 2018\LongPage\Web\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ezirima\Documents\Data Collection\Long data Collection\18 March 2018\LongPage\Web\bin\Microsoft.AI.Web.xml
+C:\Users\ezirima\Documents\Data Collection\Long data Collection\18 March 2018\LongPage\Web\obj\Debug\Web.csprojAssemblyReference.cache
+C:\Users\ezirima\Documents\Data Collection\Long data Collection\18 March 2018\LongPage\Web\obj\Debug\Web.csproj.CoreCompileInputs.cache
+C:\Users\ezirima\Documents\Data Collection\Long data Collection\18 March 2018\LongPage\Web\obj\Debug\Web.csproj.CopyComplete
+C:\Users\ezirima\Documents\Data Collection\Long data Collection\18 March 2018\LongPage\Web\obj\Debug\Web.dll
+C:\Users\ezirima\Documents\Data Collection\Long data Collection\18 March 2018\LongPage\Web\obj\Debug\Web.pdb
+G:\Project Work\Freelancer\009-Zado\Project\LongPage\Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage\Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage\Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage\Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage\Web\bin\roslyn\System.Collections.Immutable.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage\Web\bin\roslyn\System.Reflection.Metadata.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage\Web\bin\roslyn\VBCSCompiler.exe
+G:\Project Work\Freelancer\009-Zado\Project\LongPage\Web\bin\ApplicationInsights.config
+G:\Project Work\Freelancer\009-Zado\Project\LongPage\Web\bin\Antlr3.Runtime.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage\Web\bin\AspNet.ScriptManager.bootstrap.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage\Web\bin\AspNet.ScriptManager.jQuery.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage\Web\bin\Microsoft.AI.Agent.Intercept.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage\Web\bin\Microsoft.AI.DependencyCollector.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage\Web\bin\Microsoft.AI.PerfCounterCollector.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage\Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage\Web\bin\Microsoft.AI.Web.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage\Web\bin\Microsoft.AI.WindowsServer.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage\Web\bin\Microsoft.ApplicationInsights.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage\Web\bin\Microsoft.AspNet.FriendlyUrls.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage\Web\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage\Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage\Web\bin\Microsoft.ScriptManager.MSAjax.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage\Web\bin\Microsoft.ScriptManager.WebForms.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage\Web\bin\Microsoft.Web.Infrastructure.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage\Web\bin\Newtonsoft.Json.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage\Web\bin\System.Web.Optimization.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage\Web\bin\WebGrease.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage\Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\Project Work\Freelancer\009-Zado\Project\LongPage\Web\bin\System.Web.Optimization.xml
+G:\Project Work\Freelancer\009-Zado\Project\LongPage\Web\bin\Antlr3.Runtime.pdb
+G:\Project Work\Freelancer\009-Zado\Project\LongPage\Web\bin\Microsoft.AspNet.FriendlyUrls.xml
+G:\Project Work\Freelancer\009-Zado\Project\LongPage\Web\bin\Newtonsoft.Json.xml
+G:\Project Work\Freelancer\009-Zado\Project\LongPage\Web\bin\Microsoft.ApplicationInsights.xml
+G:\Project Work\Freelancer\009-Zado\Project\LongPage\Web\bin\Microsoft.AI.DependencyCollector.xml
+G:\Project Work\Freelancer\009-Zado\Project\LongPage\Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+G:\Project Work\Freelancer\009-Zado\Project\LongPage\Web\bin\Microsoft.AI.WindowsServer.xml
+G:\Project Work\Freelancer\009-Zado\Project\LongPage\Web\bin\Microsoft.AI.Web.xml
+G:\Project Work\Freelancer\009-Zado\Project\LongPage\Web\obj\Debug\Web.csproj.CoreCompileInputs.cache
+G:\Project Work\Freelancer\009-Zado\Project\LongPage\Web\obj\Debug\Web.csproj.CopyComplete
+G:\Project Work\Freelancer\009-Zado\Project\LongPage\Web\obj\Debug\Web.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage\Web\obj\Debug\Web.pdb
+G:\Project Work\Freelancer\009-Zado\Project\LongPage\Web\bin\Web.dll.config
+G:\Project Work\Freelancer\009-Zado\Project\LongPage\Web\bin\Web.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage\Web\bin\Web.pdb
+G:\Project Work\Freelancer\009-Zado\Project\LongPage\Web\bin\roslyn\csc.exe
+G:\Project Work\Freelancer\009-Zado\Project\LongPage\Web\bin\roslyn\csc.exe.config
+G:\Project Work\Freelancer\009-Zado\Project\LongPage\Web\bin\roslyn\csc.rsp
+G:\Project Work\Freelancer\009-Zado\Project\LongPage\Web\bin\roslyn\csi.exe
+G:\Project Work\Freelancer\009-Zado\Project\LongPage\Web\bin\roslyn\csi.exe.config
+G:\Project Work\Freelancer\009-Zado\Project\LongPage\Web\bin\roslyn\csi.rsp
+G:\Project Work\Freelancer\009-Zado\Project\LongPage\Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage\Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage\Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage\Web\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\Project Work\Freelancer\009-Zado\Project\LongPage\Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage\Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\Project Work\Freelancer\009-Zado\Project\LongPage\Web\bin\roslyn\Microsoft.Win32.Primitives.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage\Web\bin\roslyn\System.AppContext.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage\Web\bin\roslyn\System.Console.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage\Web\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage\Web\bin\roslyn\System.Diagnostics.Process.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage\Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage\Web\bin\roslyn\System.IO.Compression.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage\Web\bin\roslyn\System.IO.FileSystem.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage\Web\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage\Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage\Web\bin\roslyn\System.IO.Pipes.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage\Web\bin\roslyn\System.Security.AccessControl.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage\Web\bin\roslyn\System.Security.Claims.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage\Web\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage\Web\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage\Web\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage\Web\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage\Web\bin\roslyn\System.Security.Principal.Windows.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage\Web\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage\Web\bin\roslyn\System.Threading.Thread.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage\Web\bin\roslyn\System.ValueTuple.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage\Web\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage\Web\bin\roslyn\System.Xml.XmlDocument.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage\Web\bin\roslyn\System.Xml.XPath.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage\Web\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage\Web\bin\roslyn\vbc.exe
+G:\Project Work\Freelancer\009-Zado\Project\LongPage\Web\bin\roslyn\vbc.exe.config
+G:\Project Work\Freelancer\009-Zado\Project\LongPage\Web\bin\roslyn\vbc.rsp
+G:\Project Work\Freelancer\009-Zado\Project\LongPage\Web\bin\roslyn\VBCSCompiler.exe.config
+G:\Project Work\Freelancer\009-Zado\Project\LongPage\Web\bin\AjaxControlToolkit.pdb
+G:\Project Work\Freelancer\009-Zado\Project\LongPage\Web\bin\ar\AjaxControlToolkit.resources.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage\Web\bin\cs\AjaxControlToolkit.resources.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage\Web\bin\de\AjaxControlToolkit.resources.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage\Web\bin\es\AjaxControlToolkit.resources.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage\Web\bin\fr\AjaxControlToolkit.resources.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage\Web\bin\he\AjaxControlToolkit.resources.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage\Web\bin\hi\AjaxControlToolkit.resources.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage\Web\bin\it\AjaxControlToolkit.resources.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage\Web\bin\ja\AjaxControlToolkit.resources.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage\Web\bin\ko\AjaxControlToolkit.resources.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage\Web\bin\nl\AjaxControlToolkit.resources.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage\Web\bin\pt\AjaxControlToolkit.resources.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage\Web\bin\ru\AjaxControlToolkit.resources.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage\Web\bin\tr-TR\AjaxControlToolkit.resources.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage\Web\bin\zh-CHS\AjaxControlToolkit.resources.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage\Web\bin\zh-CHT\AjaxControlToolkit.resources.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage\Web\obj\Debug\Web.csprojAssemblyReference.cache
+C:\Users\ezirima\Documents\PNG IMS\08 July 2019\Final-Project\LongPage\Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ezirima\Documents\PNG IMS\08 July 2019\Final-Project\LongPage\Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ezirima\Documents\PNG IMS\08 July 2019\Final-Project\LongPage\Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ezirima\Documents\PNG IMS\08 July 2019\Final-Project\LongPage\Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ezirima\Documents\PNG IMS\08 July 2019\Final-Project\LongPage\Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ezirima\Documents\PNG IMS\08 July 2019\Final-Project\LongPage\Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ezirima\Documents\PNG IMS\08 July 2019\Final-Project\LongPage\Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\ezirima\Documents\PNG IMS\08 July 2019\Final-Project\LongPage\Web\obj\Debug\Web.csproj.CoreCompileInputs.cache
+C:\Users\ezirima\Documents\PNG IMS\08 July 2019\Final-Project\LongPage\Web\bin\ApplicationInsights.config
+C:\Users\ezirima\Documents\PNG IMS\08 July 2019\Final-Project\LongPage\Web\bin\roslyn\csc.exe
+C:\Users\ezirima\Documents\PNG IMS\08 July 2019\Final-Project\LongPage\Web\bin\roslyn\csc.exe.config
+C:\Users\ezirima\Documents\PNG IMS\08 July 2019\Final-Project\LongPage\Web\bin\roslyn\csc.rsp
+C:\Users\ezirima\Documents\PNG IMS\08 July 2019\Final-Project\LongPage\Web\bin\roslyn\csi.exe
+C:\Users\ezirima\Documents\PNG IMS\08 July 2019\Final-Project\LongPage\Web\bin\roslyn\csi.exe.config
+C:\Users\ezirima\Documents\PNG IMS\08 July 2019\Final-Project\LongPage\Web\bin\roslyn\csi.rsp
+C:\Users\ezirima\Documents\PNG IMS\08 July 2019\Final-Project\LongPage\Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ezirima\Documents\PNG IMS\08 July 2019\Final-Project\LongPage\Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ezirima\Documents\PNG IMS\08 July 2019\Final-Project\LongPage\Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ezirima\Documents\PNG IMS\08 July 2019\Final-Project\LongPage\Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ezirima\Documents\PNG IMS\08 July 2019\Final-Project\LongPage\Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ezirima\Documents\PNG IMS\08 July 2019\Final-Project\LongPage\Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ezirima\Documents\PNG IMS\08 July 2019\Final-Project\LongPage\Web\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ezirima\Documents\PNG IMS\08 July 2019\Final-Project\LongPage\Web\bin\roslyn\System.AppContext.dll
+C:\Users\ezirima\Documents\PNG IMS\08 July 2019\Final-Project\LongPage\Web\bin\roslyn\System.Console.dll
+C:\Users\ezirima\Documents\PNG IMS\08 July 2019\Final-Project\LongPage\Web\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ezirima\Documents\PNG IMS\08 July 2019\Final-Project\LongPage\Web\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\ezirima\Documents\PNG IMS\08 July 2019\Final-Project\LongPage\Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ezirima\Documents\PNG IMS\08 July 2019\Final-Project\LongPage\Web\bin\roslyn\System.IO.Compression.dll
+C:\Users\ezirima\Documents\PNG IMS\08 July 2019\Final-Project\LongPage\Web\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ezirima\Documents\PNG IMS\08 July 2019\Final-Project\LongPage\Web\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\ezirima\Documents\PNG IMS\08 July 2019\Final-Project\LongPage\Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ezirima\Documents\PNG IMS\08 July 2019\Final-Project\LongPage\Web\bin\roslyn\System.IO.Pipes.dll
+C:\Users\ezirima\Documents\PNG IMS\08 July 2019\Final-Project\LongPage\Web\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\ezirima\Documents\PNG IMS\08 July 2019\Final-Project\LongPage\Web\bin\roslyn\System.Security.Claims.dll
+C:\Users\ezirima\Documents\PNG IMS\08 July 2019\Final-Project\LongPage\Web\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ezirima\Documents\PNG IMS\08 July 2019\Final-Project\LongPage\Web\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ezirima\Documents\PNG IMS\08 July 2019\Final-Project\LongPage\Web\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ezirima\Documents\PNG IMS\08 July 2019\Final-Project\LongPage\Web\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ezirima\Documents\PNG IMS\08 July 2019\Final-Project\LongPage\Web\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\ezirima\Documents\PNG IMS\08 July 2019\Final-Project\LongPage\Web\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ezirima\Documents\PNG IMS\08 July 2019\Final-Project\LongPage\Web\bin\roslyn\System.Threading.Thread.dll
+C:\Users\ezirima\Documents\PNG IMS\08 July 2019\Final-Project\LongPage\Web\bin\roslyn\System.ValueTuple.dll
+C:\Users\ezirima\Documents\PNG IMS\08 July 2019\Final-Project\LongPage\Web\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ezirima\Documents\PNG IMS\08 July 2019\Final-Project\LongPage\Web\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ezirima\Documents\PNG IMS\08 July 2019\Final-Project\LongPage\Web\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ezirima\Documents\PNG IMS\08 July 2019\Final-Project\LongPage\Web\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ezirima\Documents\PNG IMS\08 July 2019\Final-Project\LongPage\Web\bin\roslyn\vbc.exe
+C:\Users\ezirima\Documents\PNG IMS\08 July 2019\Final-Project\LongPage\Web\bin\roslyn\vbc.exe.config
+C:\Users\ezirima\Documents\PNG IMS\08 July 2019\Final-Project\LongPage\Web\bin\roslyn\vbc.rsp
+C:\Users\ezirima\Documents\PNG IMS\08 July 2019\Final-Project\LongPage\Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ezirima\Documents\PNG IMS\08 July 2019\Final-Project\LongPage\Web\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\ezirima\Documents\PNG IMS\08 July 2019\Final-Project\LongPage\Web\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\ezirima\Documents\PNG IMS\08 July 2019\Final-Project\LongPage\Web\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\ezirima\Documents\PNG IMS\08 July 2019\Final-Project\LongPage\Web\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\ezirima\Documents\PNG IMS\08 July 2019\Final-Project\LongPage\Web\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\ezirima\Documents\PNG IMS\08 July 2019\Final-Project\LongPage\Web\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\ezirima\Documents\PNG IMS\08 July 2019\Final-Project\LongPage\Web\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\ezirima\Documents\PNG IMS\08 July 2019\Final-Project\LongPage\Web\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\ezirima\Documents\PNG IMS\08 July 2019\Final-Project\LongPage\Web\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\ezirima\Documents\PNG IMS\08 July 2019\Final-Project\LongPage\Web\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\ezirima\Documents\PNG IMS\08 July 2019\Final-Project\LongPage\Web\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\ezirima\Documents\PNG IMS\08 July 2019\Final-Project\LongPage\Web\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\ezirima\Documents\PNG IMS\08 July 2019\Final-Project\LongPage\Web\bin\stdole.dll
+C:\Users\ezirima\Documents\PNG IMS\08 July 2019\Final-Project\LongPage\Web\obj\Debug\Web.csproj.CopyComplete
+C:\Users\ezirima\Documents\PNG IMS\08 July 2019\Final-Project\LongPage\Web\obj\Debug\Web.dll
+C:\Users\ezirima\Documents\PNG IMS\08 July 2019\Final-Project\LongPage\Web\obj\Debug\Web.pdb
+C:\Users\ezirima\Documents\PNG IMS\08 July 2019\Final-Project\LongPage\Web\bin\Web.dll.config
+C:\Users\ezirima\Documents\PNG IMS\08 July 2019\Final-Project\LongPage\Web\bin\Web.dll
+C:\Users\ezirima\Documents\PNG IMS\08 July 2019\Final-Project\LongPage\Web\bin\Web.pdb
+C:\Users\ezirima\Documents\PNG IMS\08 July 2019\Final-Project\LongPage\Web\obj\Debug\Web.csprojAssemblyReference.cache
+G:\Project Work\Freelancer\009-Zado\Project\LongPage 26 08 19\Web\bin\ApplicationInsights.config
+G:\Project Work\Freelancer\009-Zado\Project\LongPage 26 08 19\Web\bin\roslyn\csc.exe
+G:\Project Work\Freelancer\009-Zado\Project\LongPage 26 08 19\Web\bin\roslyn\csc.exe.config
+G:\Project Work\Freelancer\009-Zado\Project\LongPage 26 08 19\Web\bin\roslyn\csc.rsp
+G:\Project Work\Freelancer\009-Zado\Project\LongPage 26 08 19\Web\bin\roslyn\csi.exe
+G:\Project Work\Freelancer\009-Zado\Project\LongPage 26 08 19\Web\bin\roslyn\csi.exe.config
+G:\Project Work\Freelancer\009-Zado\Project\LongPage 26 08 19\Web\bin\roslyn\csi.rsp
+G:\Project Work\Freelancer\009-Zado\Project\LongPage 26 08 19\Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage 26 08 19\Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage 26 08 19\Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage 26 08 19\Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage 26 08 19\Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage 26 08 19\Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage 26 08 19\Web\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\Project Work\Freelancer\009-Zado\Project\LongPage 26 08 19\Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage 26 08 19\Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage 26 08 19\Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\Project Work\Freelancer\009-Zado\Project\LongPage 26 08 19\Web\bin\roslyn\Microsoft.Win32.Primitives.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage 26 08 19\Web\bin\roslyn\System.AppContext.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage 26 08 19\Web\bin\roslyn\System.Collections.Immutable.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage 26 08 19\Web\bin\roslyn\System.Console.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage 26 08 19\Web\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage 26 08 19\Web\bin\roslyn\System.Diagnostics.Process.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage 26 08 19\Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage 26 08 19\Web\bin\roslyn\System.IO.Compression.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage 26 08 19\Web\bin\roslyn\System.IO.FileSystem.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage 26 08 19\Web\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage 26 08 19\Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage 26 08 19\Web\bin\roslyn\System.IO.Pipes.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage 26 08 19\Web\bin\roslyn\System.Reflection.Metadata.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage 26 08 19\Web\bin\roslyn\System.Security.AccessControl.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage 26 08 19\Web\bin\roslyn\System.Security.Claims.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage 26 08 19\Web\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage 26 08 19\Web\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage 26 08 19\Web\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage 26 08 19\Web\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage 26 08 19\Web\bin\roslyn\System.Security.Principal.Windows.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage 26 08 19\Web\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage 26 08 19\Web\bin\roslyn\System.Threading.Thread.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage 26 08 19\Web\bin\roslyn\System.ValueTuple.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage 26 08 19\Web\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage 26 08 19\Web\bin\roslyn\System.Xml.XmlDocument.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage 26 08 19\Web\bin\roslyn\System.Xml.XPath.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage 26 08 19\Web\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage 26 08 19\Web\bin\roslyn\vbc.exe
+G:\Project Work\Freelancer\009-Zado\Project\LongPage 26 08 19\Web\bin\roslyn\vbc.exe.config
+G:\Project Work\Freelancer\009-Zado\Project\LongPage 26 08 19\Web\bin\roslyn\vbc.rsp
+G:\Project Work\Freelancer\009-Zado\Project\LongPage 26 08 19\Web\bin\roslyn\VBCSCompiler.exe
+G:\Project Work\Freelancer\009-Zado\Project\LongPage 26 08 19\Web\bin\roslyn\VBCSCompiler.exe.config
+G:\Project Work\Freelancer\009-Zado\Project\LongPage 26 08 19\Web\bin\Web.dll.config
+G:\Project Work\Freelancer\009-Zado\Project\LongPage 26 08 19\Web\bin\Web.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage 26 08 19\Web\bin\Web.pdb
+G:\Project Work\Freelancer\009-Zado\Project\LongPage 26 08 19\Web\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage 26 08 19\Web\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage 26 08 19\Web\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage 26 08 19\Web\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage 26 08 19\Web\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage 26 08 19\Web\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage 26 08 19\Web\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage 26 08 19\Web\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage 26 08 19\Web\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage 26 08 19\Web\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage 26 08 19\Web\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage 26 08 19\Web\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage 26 08 19\Web\bin\stdole.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage 26 08 19\Web\obj\Debug\Web.csprojAssemblyReference.cache
+G:\Project Work\Freelancer\009-Zado\Project\LongPage 26 08 19\Web\obj\Debug\Web.csproj.CoreCompileInputs.cache
+G:\Project Work\Freelancer\009-Zado\Project\LongPage 26 08 19\Web\obj\Debug\Web.csproj.CopyComplete
+G:\Project Work\Freelancer\009-Zado\Project\LongPage 26 08 19\Web\obj\Debug\Web.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage 26 08 19\Web\obj\Debug\Web.pdb
+C:\Users\cankit\Downloads\LongPage 26 08 19\LongPage 26 08 19\Web\bin\ApplicationInsights.config
+C:\Users\cankit\Downloads\LongPage 26 08 19\LongPage 26 08 19\Web\bin\roslyn\csc.exe
+C:\Users\cankit\Downloads\LongPage 26 08 19\LongPage 26 08 19\Web\bin\roslyn\csc.exe.config
+C:\Users\cankit\Downloads\LongPage 26 08 19\LongPage 26 08 19\Web\bin\roslyn\csc.rsp
+C:\Users\cankit\Downloads\LongPage 26 08 19\LongPage 26 08 19\Web\bin\roslyn\csi.exe
+C:\Users\cankit\Downloads\LongPage 26 08 19\LongPage 26 08 19\Web\bin\roslyn\csi.exe.config
+C:\Users\cankit\Downloads\LongPage 26 08 19\LongPage 26 08 19\Web\bin\roslyn\csi.rsp
+C:\Users\cankit\Downloads\LongPage 26 08 19\LongPage 26 08 19\Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\cankit\Downloads\LongPage 26 08 19\LongPage 26 08 19\Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\cankit\Downloads\LongPage 26 08 19\LongPage 26 08 19\Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\cankit\Downloads\LongPage 26 08 19\LongPage 26 08 19\Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\cankit\Downloads\LongPage 26 08 19\LongPage 26 08 19\Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\cankit\Downloads\LongPage 26 08 19\LongPage 26 08 19\Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\cankit\Downloads\LongPage 26 08 19\LongPage 26 08 19\Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\cankit\Downloads\LongPage 26 08 19\LongPage 26 08 19\Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\cankit\Downloads\LongPage 26 08 19\LongPage 26 08 19\Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\cankit\Downloads\LongPage 26 08 19\LongPage 26 08 19\Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\cankit\Downloads\LongPage 26 08 19\LongPage 26 08 19\Web\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\cankit\Downloads\LongPage 26 08 19\LongPage 26 08 19\Web\bin\roslyn\System.AppContext.dll
+C:\Users\cankit\Downloads\LongPage 26 08 19\LongPage 26 08 19\Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\cankit\Downloads\LongPage 26 08 19\LongPage 26 08 19\Web\bin\roslyn\System.Console.dll
+C:\Users\cankit\Downloads\LongPage 26 08 19\LongPage 26 08 19\Web\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\cankit\Downloads\LongPage 26 08 19\LongPage 26 08 19\Web\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\cankit\Downloads\LongPage 26 08 19\LongPage 26 08 19\Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\cankit\Downloads\LongPage 26 08 19\LongPage 26 08 19\Web\bin\roslyn\System.IO.Compression.dll
+C:\Users\cankit\Downloads\LongPage 26 08 19\LongPage 26 08 19\Web\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\cankit\Downloads\LongPage 26 08 19\LongPage 26 08 19\Web\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\cankit\Downloads\LongPage 26 08 19\LongPage 26 08 19\Web\bin\roslyn\System.IO.Pipes.dll
+C:\Users\cankit\Downloads\LongPage 26 08 19\LongPage 26 08 19\Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\cankit\Downloads\LongPage 26 08 19\LongPage 26 08 19\Web\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\cankit\Downloads\LongPage 26 08 19\LongPage 26 08 19\Web\bin\roslyn\System.Security.Claims.dll
+C:\Users\cankit\Downloads\LongPage 26 08 19\LongPage 26 08 19\Web\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\cankit\Downloads\LongPage 26 08 19\LongPage 26 08 19\Web\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\cankit\Downloads\LongPage 26 08 19\LongPage 26 08 19\Web\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\cankit\Downloads\LongPage 26 08 19\LongPage 26 08 19\Web\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\cankit\Downloads\LongPage 26 08 19\LongPage 26 08 19\Web\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\cankit\Downloads\LongPage 26 08 19\LongPage 26 08 19\Web\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\cankit\Downloads\LongPage 26 08 19\LongPage 26 08 19\Web\bin\roslyn\System.Threading.Thread.dll
+C:\Users\cankit\Downloads\LongPage 26 08 19\LongPage 26 08 19\Web\bin\roslyn\System.ValueTuple.dll
+C:\Users\cankit\Downloads\LongPage 26 08 19\LongPage 26 08 19\Web\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\cankit\Downloads\LongPage 26 08 19\LongPage 26 08 19\Web\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\cankit\Downloads\LongPage 26 08 19\LongPage 26 08 19\Web\bin\roslyn\System.Xml.XPath.dll
+C:\Users\cankit\Downloads\LongPage 26 08 19\LongPage 26 08 19\Web\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\cankit\Downloads\LongPage 26 08 19\LongPage 26 08 19\Web\bin\roslyn\vbc.exe
+C:\Users\cankit\Downloads\LongPage 26 08 19\LongPage 26 08 19\Web\bin\roslyn\vbc.exe.config
+C:\Users\cankit\Downloads\LongPage 26 08 19\LongPage 26 08 19\Web\bin\roslyn\vbc.rsp
+C:\Users\cankit\Downloads\LongPage 26 08 19\LongPage 26 08 19\Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\cankit\Downloads\LongPage 26 08 19\LongPage 26 08 19\Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\cankit\Downloads\LongPage 26 08 19\LongPage 26 08 19\Web\bin\Web.dll.config
+C:\Users\cankit\Downloads\LongPage 26 08 19\LongPage 26 08 19\Web\bin\Web.dll
+C:\Users\cankit\Downloads\LongPage 26 08 19\LongPage 26 08 19\Web\bin\Web.pdb
+C:\Users\cankit\Downloads\LongPage 26 08 19\LongPage 26 08 19\Web\bin\DocumentFormat.OpenXml.dll
+C:\Users\cankit\Downloads\LongPage 26 08 19\LongPage 26 08 19\Web\bin\System.IO.FileSystem.Primitives.dll
+C:\Users\cankit\Downloads\LongPage 26 08 19\LongPage 26 08 19\Web\bin\System.IO.Packaging.dll
+C:\Users\cankit\Downloads\LongPage 26 08 19\LongPage 26 08 19\Web\bin\WindowsBase.dll
+C:\Users\cankit\Downloads\LongPage 26 08 19\LongPage 26 08 19\Web\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\cankit\Downloads\LongPage 26 08 19\LongPage 26 08 19\Web\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\cankit\Downloads\LongPage 26 08 19\LongPage 26 08 19\Web\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\cankit\Downloads\LongPage 26 08 19\LongPage 26 08 19\Web\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\cankit\Downloads\LongPage 26 08 19\LongPage 26 08 19\Web\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\cankit\Downloads\LongPage 26 08 19\LongPage 26 08 19\Web\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\cankit\Downloads\LongPage 26 08 19\LongPage 26 08 19\Web\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\cankit\Downloads\LongPage 26 08 19\LongPage 26 08 19\Web\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\cankit\Downloads\LongPage 26 08 19\LongPage 26 08 19\Web\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\cankit\Downloads\LongPage 26 08 19\LongPage 26 08 19\Web\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\cankit\Downloads\LongPage 26 08 19\LongPage 26 08 19\Web\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\cankit\Downloads\LongPage 26 08 19\LongPage 26 08 19\Web\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\cankit\Downloads\LongPage 26 08 19\LongPage 26 08 19\Web\bin\stdole.dll
+C:\Users\cankit\Downloads\LongPage 26 08 19\LongPage 26 08 19\Web\bin\DocumentFormat.OpenXml.xml
+C:\Users\cankit\Downloads\LongPage 26 08 19\LongPage 26 08 19\Web\obj\Debug\Web.csprojAssemblyReference.cache
+C:\Users\cankit\Downloads\LongPage 26 08 19\LongPage 26 08 19\Web\obj\Debug\Web.csproj.CoreCompileInputs.cache
+C:\Users\cankit\Downloads\LongPage 26 08 19\LongPage 26 08 19\Web\obj\Debug\Web.csproj.CopyComplete
+C:\Users\cankit\Downloads\LongPage 26 08 19\LongPage 26 08 19\Web\obj\Debug\Web.dll
+C:\Users\cankit\Downloads\LongPage 26 08 19\LongPage 26 08 19\Web\obj\Debug\Web.pdb
+C:\Users\ezirima\Documents\PNG IMS\10 September 2019\pngIMS\Web\bin\ApplicationInsights.config
+C:\Users\ezirima\Documents\PNG IMS\10 September 2019\pngIMS\Web\bin\roslyn\csc.exe
+C:\Users\ezirima\Documents\PNG IMS\10 September 2019\pngIMS\Web\bin\roslyn\csc.exe.config
+C:\Users\ezirima\Documents\PNG IMS\10 September 2019\pngIMS\Web\bin\roslyn\csc.rsp
+C:\Users\ezirima\Documents\PNG IMS\10 September 2019\pngIMS\Web\bin\roslyn\csi.exe
+C:\Users\ezirima\Documents\PNG IMS\10 September 2019\pngIMS\Web\bin\roslyn\csi.exe.config
+C:\Users\ezirima\Documents\PNG IMS\10 September 2019\pngIMS\Web\bin\roslyn\csi.rsp
+C:\Users\ezirima\Documents\PNG IMS\10 September 2019\pngIMS\Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ezirima\Documents\PNG IMS\10 September 2019\pngIMS\Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ezirima\Documents\PNG IMS\10 September 2019\pngIMS\Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ezirima\Documents\PNG IMS\10 September 2019\pngIMS\Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ezirima\Documents\PNG IMS\10 September 2019\pngIMS\Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ezirima\Documents\PNG IMS\10 September 2019\pngIMS\Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ezirima\Documents\PNG IMS\10 September 2019\pngIMS\Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ezirima\Documents\PNG IMS\10 September 2019\pngIMS\Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ezirima\Documents\PNG IMS\10 September 2019\pngIMS\Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ezirima\Documents\PNG IMS\10 September 2019\pngIMS\Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ezirima\Documents\PNG IMS\10 September 2019\pngIMS\Web\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ezirima\Documents\PNG IMS\10 September 2019\pngIMS\Web\bin\roslyn\System.AppContext.dll
+C:\Users\ezirima\Documents\PNG IMS\10 September 2019\pngIMS\Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ezirima\Documents\PNG IMS\10 September 2019\pngIMS\Web\bin\roslyn\System.Console.dll
+C:\Users\ezirima\Documents\PNG IMS\10 September 2019\pngIMS\Web\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ezirima\Documents\PNG IMS\10 September 2019\pngIMS\Web\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\ezirima\Documents\PNG IMS\10 September 2019\pngIMS\Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ezirima\Documents\PNG IMS\10 September 2019\pngIMS\Web\bin\roslyn\System.IO.Compression.dll
+C:\Users\ezirima\Documents\PNG IMS\10 September 2019\pngIMS\Web\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ezirima\Documents\PNG IMS\10 September 2019\pngIMS\Web\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\ezirima\Documents\PNG IMS\10 September 2019\pngIMS\Web\bin\roslyn\System.IO.Pipes.dll
+C:\Users\ezirima\Documents\PNG IMS\10 September 2019\pngIMS\Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ezirima\Documents\PNG IMS\10 September 2019\pngIMS\Web\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\ezirima\Documents\PNG IMS\10 September 2019\pngIMS\Web\bin\roslyn\System.Security.Claims.dll
+C:\Users\ezirima\Documents\PNG IMS\10 September 2019\pngIMS\Web\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ezirima\Documents\PNG IMS\10 September 2019\pngIMS\Web\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ezirima\Documents\PNG IMS\10 September 2019\pngIMS\Web\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ezirima\Documents\PNG IMS\10 September 2019\pngIMS\Web\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ezirima\Documents\PNG IMS\10 September 2019\pngIMS\Web\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\ezirima\Documents\PNG IMS\10 September 2019\pngIMS\Web\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ezirima\Documents\PNG IMS\10 September 2019\pngIMS\Web\bin\roslyn\System.Threading.Thread.dll
+C:\Users\ezirima\Documents\PNG IMS\10 September 2019\pngIMS\Web\bin\roslyn\System.ValueTuple.dll
+C:\Users\ezirima\Documents\PNG IMS\10 September 2019\pngIMS\Web\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ezirima\Documents\PNG IMS\10 September 2019\pngIMS\Web\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ezirima\Documents\PNG IMS\10 September 2019\pngIMS\Web\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ezirima\Documents\PNG IMS\10 September 2019\pngIMS\Web\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ezirima\Documents\PNG IMS\10 September 2019\pngIMS\Web\bin\roslyn\vbc.exe
+C:\Users\ezirima\Documents\PNG IMS\10 September 2019\pngIMS\Web\bin\roslyn\vbc.exe.config
+C:\Users\ezirima\Documents\PNG IMS\10 September 2019\pngIMS\Web\bin\roslyn\vbc.rsp
+C:\Users\ezirima\Documents\PNG IMS\10 September 2019\pngIMS\Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\ezirima\Documents\PNG IMS\10 September 2019\pngIMS\Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ezirima\Documents\PNG IMS\10 September 2019\pngIMS\Web\bin\Web.dll.config
+C:\Users\ezirima\Documents\PNG IMS\10 September 2019\pngIMS\Web\bin\Web.dll
+C:\Users\ezirima\Documents\PNG IMS\10 September 2019\pngIMS\Web\bin\Web.pdb
+C:\Users\ezirima\Documents\PNG IMS\10 September 2019\pngIMS\Web\bin\DocumentFormat.OpenXml.dll
+C:\Users\ezirima\Documents\PNG IMS\10 September 2019\pngIMS\Web\bin\System.IO.FileSystem.Primitives.dll
+C:\Users\ezirima\Documents\PNG IMS\10 September 2019\pngIMS\Web\bin\System.IO.Packaging.dll
+C:\Users\ezirima\Documents\PNG IMS\10 September 2019\pngIMS\Web\bin\WindowsBase.dll
+C:\Users\ezirima\Documents\PNG IMS\10 September 2019\pngIMS\Web\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\ezirima\Documents\PNG IMS\10 September 2019\pngIMS\Web\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\ezirima\Documents\PNG IMS\10 September 2019\pngIMS\Web\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\ezirima\Documents\PNG IMS\10 September 2019\pngIMS\Web\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\ezirima\Documents\PNG IMS\10 September 2019\pngIMS\Web\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\ezirima\Documents\PNG IMS\10 September 2019\pngIMS\Web\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\ezirima\Documents\PNG IMS\10 September 2019\pngIMS\Web\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\ezirima\Documents\PNG IMS\10 September 2019\pngIMS\Web\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\ezirima\Documents\PNG IMS\10 September 2019\pngIMS\Web\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\ezirima\Documents\PNG IMS\10 September 2019\pngIMS\Web\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\ezirima\Documents\PNG IMS\10 September 2019\pngIMS\Web\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\ezirima\Documents\PNG IMS\10 September 2019\pngIMS\Web\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\ezirima\Documents\PNG IMS\10 September 2019\pngIMS\Web\bin\stdole.dll
+C:\Users\ezirima\Documents\PNG IMS\10 September 2019\pngIMS\Web\bin\DocumentFormat.OpenXml.xml
+C:\Users\ezirima\Documents\PNG IMS\10 September 2019\pngIMS\Web\obj\Debug\Web.csprojAssemblyReference.cache
+C:\Users\ezirima\Documents\PNG IMS\10 September 2019\pngIMS\Web\obj\Debug\Web.csproj.CoreCompileInputs.cache
+C:\Users\ezirima\Documents\PNG IMS\10 September 2019\pngIMS\Web\obj\Debug\Web.csproj.CopyComplete
+C:\Users\ezirima\Documents\PNG IMS\10 September 2019\pngIMS\Web\obj\Debug\Web.dll
+C:\Users\ezirima\Documents\PNG IMS\10 September 2019\pngIMS\Web\obj\Debug\Web.pdb
+G:\Project Work\Freelancer\009-Zado\Project\LongPage-Chart\Web\bin\ApplicationInsights.config
+G:\Project Work\Freelancer\009-Zado\Project\LongPage-Chart\Web\bin\roslyn\csc.exe
+G:\Project Work\Freelancer\009-Zado\Project\LongPage-Chart\Web\bin\roslyn\csc.exe.config
+G:\Project Work\Freelancer\009-Zado\Project\LongPage-Chart\Web\bin\roslyn\csc.rsp
+G:\Project Work\Freelancer\009-Zado\Project\LongPage-Chart\Web\bin\roslyn\csi.exe
+G:\Project Work\Freelancer\009-Zado\Project\LongPage-Chart\Web\bin\roslyn\csi.exe.config
+G:\Project Work\Freelancer\009-Zado\Project\LongPage-Chart\Web\bin\roslyn\csi.rsp
+G:\Project Work\Freelancer\009-Zado\Project\LongPage-Chart\Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage-Chart\Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage-Chart\Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage-Chart\Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage-Chart\Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage-Chart\Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage-Chart\Web\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\Project Work\Freelancer\009-Zado\Project\LongPage-Chart\Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage-Chart\Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage-Chart\Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\Project Work\Freelancer\009-Zado\Project\LongPage-Chart\Web\bin\roslyn\Microsoft.Win32.Primitives.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage-Chart\Web\bin\roslyn\System.AppContext.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage-Chart\Web\bin\roslyn\System.Collections.Immutable.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage-Chart\Web\bin\roslyn\System.Console.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage-Chart\Web\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage-Chart\Web\bin\roslyn\System.Diagnostics.Process.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage-Chart\Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage-Chart\Web\bin\roslyn\System.IO.Compression.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage-Chart\Web\bin\roslyn\System.IO.FileSystem.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage-Chart\Web\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage-Chart\Web\bin\roslyn\System.IO.Pipes.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage-Chart\Web\bin\roslyn\System.Reflection.Metadata.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage-Chart\Web\bin\roslyn\System.Security.AccessControl.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage-Chart\Web\bin\roslyn\System.Security.Claims.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage-Chart\Web\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage-Chart\Web\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage-Chart\Web\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage-Chart\Web\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage-Chart\Web\bin\roslyn\System.Security.Principal.Windows.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage-Chart\Web\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage-Chart\Web\bin\roslyn\System.Threading.Thread.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage-Chart\Web\bin\roslyn\System.ValueTuple.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage-Chart\Web\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage-Chart\Web\bin\roslyn\System.Xml.XmlDocument.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage-Chart\Web\bin\roslyn\System.Xml.XPath.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage-Chart\Web\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage-Chart\Web\bin\roslyn\vbc.exe
+G:\Project Work\Freelancer\009-Zado\Project\LongPage-Chart\Web\bin\roslyn\vbc.exe.config
+G:\Project Work\Freelancer\009-Zado\Project\LongPage-Chart\Web\bin\roslyn\vbc.rsp
+G:\Project Work\Freelancer\009-Zado\Project\LongPage-Chart\Web\bin\roslyn\VBCSCompiler.exe
+G:\Project Work\Freelancer\009-Zado\Project\LongPage-Chart\Web\bin\roslyn\VBCSCompiler.exe.config
+G:\Project Work\Freelancer\009-Zado\Project\LongPage-Chart\Web\bin\Web.dll.config
+G:\Project Work\Freelancer\009-Zado\Project\LongPage-Chart\Web\bin\Web.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage-Chart\Web\bin\Web.pdb
+G:\Project Work\Freelancer\009-Zado\Project\LongPage-Chart\Web\bin\DocumentFormat.OpenXml.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage-Chart\Web\bin\System.IO.FileSystem.Primitives.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage-Chart\Web\bin\System.IO.Packaging.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage-Chart\Web\bin\WindowsBase.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage-Chart\Web\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage-Chart\Web\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage-Chart\Web\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage-Chart\Web\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage-Chart\Web\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage-Chart\Web\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage-Chart\Web\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage-Chart\Web\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage-Chart\Web\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage-Chart\Web\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage-Chart\Web\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage-Chart\Web\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage-Chart\Web\bin\stdole.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage-Chart\Web\bin\DocumentFormat.OpenXml.xml
+G:\Project Work\Freelancer\009-Zado\Project\LongPage-Chart\Web\obj\Debug\Web.csprojAssemblyReference.cache
+G:\Project Work\Freelancer\009-Zado\Project\LongPage-Chart\Web\obj\Debug\Web.csproj.CoreCompileInputs.cache
+G:\Project Work\Freelancer\009-Zado\Project\LongPage-Chart\Web\obj\Debug\Web.csproj.CopyComplete
+G:\Project Work\Freelancer\009-Zado\Project\LongPage-Chart\Web\obj\Debug\Web.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage-Chart\Web\obj\Debug\Web.pdb
+C:\Users\ezirima\Documents\PNG IMS\13 September 2019\LongPage-Final\LongPage-Chart\Web\bin\ApplicationInsights.config
+C:\Users\ezirima\Documents\PNG IMS\13 September 2019\LongPage-Final\LongPage-Chart\Web\bin\roslyn\csc.exe
+C:\Users\ezirima\Documents\PNG IMS\13 September 2019\LongPage-Final\LongPage-Chart\Web\bin\roslyn\csc.exe.config
+C:\Users\ezirima\Documents\PNG IMS\13 September 2019\LongPage-Final\LongPage-Chart\Web\bin\roslyn\csc.rsp
+C:\Users\ezirima\Documents\PNG IMS\13 September 2019\LongPage-Final\LongPage-Chart\Web\bin\roslyn\csi.exe
+C:\Users\ezirima\Documents\PNG IMS\13 September 2019\LongPage-Final\LongPage-Chart\Web\bin\roslyn\csi.exe.config
+C:\Users\ezirima\Documents\PNG IMS\13 September 2019\LongPage-Final\LongPage-Chart\Web\bin\roslyn\csi.rsp
+C:\Users\ezirima\Documents\PNG IMS\13 September 2019\LongPage-Final\LongPage-Chart\Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ezirima\Documents\PNG IMS\13 September 2019\LongPage-Final\LongPage-Chart\Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ezirima\Documents\PNG IMS\13 September 2019\LongPage-Final\LongPage-Chart\Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ezirima\Documents\PNG IMS\13 September 2019\LongPage-Final\LongPage-Chart\Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ezirima\Documents\PNG IMS\13 September 2019\LongPage-Final\LongPage-Chart\Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ezirima\Documents\PNG IMS\13 September 2019\LongPage-Final\LongPage-Chart\Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ezirima\Documents\PNG IMS\13 September 2019\LongPage-Final\LongPage-Chart\Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ezirima\Documents\PNG IMS\13 September 2019\LongPage-Final\LongPage-Chart\Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ezirima\Documents\PNG IMS\13 September 2019\LongPage-Final\LongPage-Chart\Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ezirima\Documents\PNG IMS\13 September 2019\LongPage-Final\LongPage-Chart\Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ezirima\Documents\PNG IMS\13 September 2019\LongPage-Final\LongPage-Chart\Web\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ezirima\Documents\PNG IMS\13 September 2019\LongPage-Final\LongPage-Chart\Web\bin\roslyn\System.AppContext.dll
+C:\Users\ezirima\Documents\PNG IMS\13 September 2019\LongPage-Final\LongPage-Chart\Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ezirima\Documents\PNG IMS\13 September 2019\LongPage-Final\LongPage-Chart\Web\bin\roslyn\System.Console.dll
+C:\Users\ezirima\Documents\PNG IMS\13 September 2019\LongPage-Final\LongPage-Chart\Web\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ezirima\Documents\PNG IMS\13 September 2019\LongPage-Final\LongPage-Chart\Web\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\ezirima\Documents\PNG IMS\13 September 2019\LongPage-Final\LongPage-Chart\Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ezirima\Documents\PNG IMS\13 September 2019\LongPage-Final\LongPage-Chart\Web\bin\roslyn\System.IO.Compression.dll
+C:\Users\ezirima\Documents\PNG IMS\13 September 2019\LongPage-Final\LongPage-Chart\Web\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ezirima\Documents\PNG IMS\13 September 2019\LongPage-Final\LongPage-Chart\Web\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\ezirima\Documents\PNG IMS\13 September 2019\LongPage-Final\LongPage-Chart\Web\bin\roslyn\System.IO.Pipes.dll
+C:\Users\ezirima\Documents\PNG IMS\13 September 2019\LongPage-Final\LongPage-Chart\Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ezirima\Documents\PNG IMS\13 September 2019\LongPage-Final\LongPage-Chart\Web\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\ezirima\Documents\PNG IMS\13 September 2019\LongPage-Final\LongPage-Chart\Web\bin\roslyn\System.Security.Claims.dll
+C:\Users\ezirima\Documents\PNG IMS\13 September 2019\LongPage-Final\LongPage-Chart\Web\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ezirima\Documents\PNG IMS\13 September 2019\LongPage-Final\LongPage-Chart\Web\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ezirima\Documents\PNG IMS\13 September 2019\LongPage-Final\LongPage-Chart\Web\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ezirima\Documents\PNG IMS\13 September 2019\LongPage-Final\LongPage-Chart\Web\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ezirima\Documents\PNG IMS\13 September 2019\LongPage-Final\LongPage-Chart\Web\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\ezirima\Documents\PNG IMS\13 September 2019\LongPage-Final\LongPage-Chart\Web\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ezirima\Documents\PNG IMS\13 September 2019\LongPage-Final\LongPage-Chart\Web\bin\roslyn\System.Threading.Thread.dll
+C:\Users\ezirima\Documents\PNG IMS\13 September 2019\LongPage-Final\LongPage-Chart\Web\bin\roslyn\System.ValueTuple.dll
+C:\Users\ezirima\Documents\PNG IMS\13 September 2019\LongPage-Final\LongPage-Chart\Web\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ezirima\Documents\PNG IMS\13 September 2019\LongPage-Final\LongPage-Chart\Web\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ezirima\Documents\PNG IMS\13 September 2019\LongPage-Final\LongPage-Chart\Web\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ezirima\Documents\PNG IMS\13 September 2019\LongPage-Final\LongPage-Chart\Web\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ezirima\Documents\PNG IMS\13 September 2019\LongPage-Final\LongPage-Chart\Web\bin\roslyn\vbc.exe
+C:\Users\ezirima\Documents\PNG IMS\13 September 2019\LongPage-Final\LongPage-Chart\Web\bin\roslyn\vbc.exe.config
+C:\Users\ezirima\Documents\PNG IMS\13 September 2019\LongPage-Final\LongPage-Chart\Web\bin\roslyn\vbc.rsp
+C:\Users\ezirima\Documents\PNG IMS\13 September 2019\LongPage-Final\LongPage-Chart\Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\ezirima\Documents\PNG IMS\13 September 2019\LongPage-Final\LongPage-Chart\Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ezirima\Documents\PNG IMS\13 September 2019\LongPage-Final\LongPage-Chart\Web\bin\Web.dll.config
+C:\Users\ezirima\Documents\PNG IMS\13 September 2019\LongPage-Final\LongPage-Chart\Web\bin\Web.dll
+C:\Users\ezirima\Documents\PNG IMS\13 September 2019\LongPage-Final\LongPage-Chart\Web\bin\Web.pdb
+C:\Users\ezirima\Documents\PNG IMS\13 September 2019\LongPage-Final\LongPage-Chart\Web\bin\DocumentFormat.OpenXml.dll
+C:\Users\ezirima\Documents\PNG IMS\13 September 2019\LongPage-Final\LongPage-Chart\Web\bin\System.IO.FileSystem.Primitives.dll
+C:\Users\ezirima\Documents\PNG IMS\13 September 2019\LongPage-Final\LongPage-Chart\Web\bin\System.IO.Packaging.dll
+C:\Users\ezirima\Documents\PNG IMS\13 September 2019\LongPage-Final\LongPage-Chart\Web\bin\WindowsBase.dll
+C:\Users\ezirima\Documents\PNG IMS\13 September 2019\LongPage-Final\LongPage-Chart\Web\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\ezirima\Documents\PNG IMS\13 September 2019\LongPage-Final\LongPage-Chart\Web\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\ezirima\Documents\PNG IMS\13 September 2019\LongPage-Final\LongPage-Chart\Web\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\ezirima\Documents\PNG IMS\13 September 2019\LongPage-Final\LongPage-Chart\Web\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\ezirima\Documents\PNG IMS\13 September 2019\LongPage-Final\LongPage-Chart\Web\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\ezirima\Documents\PNG IMS\13 September 2019\LongPage-Final\LongPage-Chart\Web\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\ezirima\Documents\PNG IMS\13 September 2019\LongPage-Final\LongPage-Chart\Web\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\ezirima\Documents\PNG IMS\13 September 2019\LongPage-Final\LongPage-Chart\Web\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\ezirima\Documents\PNG IMS\13 September 2019\LongPage-Final\LongPage-Chart\Web\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\ezirima\Documents\PNG IMS\13 September 2019\LongPage-Final\LongPage-Chart\Web\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\ezirima\Documents\PNG IMS\13 September 2019\LongPage-Final\LongPage-Chart\Web\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\ezirima\Documents\PNG IMS\13 September 2019\LongPage-Final\LongPage-Chart\Web\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\ezirima\Documents\PNG IMS\13 September 2019\LongPage-Final\LongPage-Chart\Web\bin\stdole.dll
+C:\Users\ezirima\Documents\PNG IMS\13 September 2019\LongPage-Final\LongPage-Chart\Web\bin\DocumentFormat.OpenXml.xml
+C:\Users\ezirima\Documents\PNG IMS\13 September 2019\LongPage-Final\LongPage-Chart\Web\obj\Debug\Web.csprojAssemblyReference.cache
+C:\Users\ezirima\Documents\PNG IMS\13 September 2019\LongPage-Final\LongPage-Chart\Web\obj\Debug\Web.csproj.CoreCompileInputs.cache
+C:\Users\ezirima\Documents\PNG IMS\13 September 2019\LongPage-Final\LongPage-Chart\Web\obj\Debug\Web.csproj.CopyComplete
+C:\Users\ezirima\Documents\PNG IMS\13 September 2019\LongPage-Final\LongPage-Chart\Web\obj\Debug\Web.dll
+C:\Users\ezirima\Documents\PNG IMS\13 September 2019\LongPage-Final\LongPage-Chart\Web\obj\Debug\Web.pdb
+F:\Personal\LongPage-Chart\Web\bin\ApplicationInsights.config
+F:\Personal\LongPage-Chart\Web\bin\roslyn\csc.exe
+F:\Personal\LongPage-Chart\Web\bin\roslyn\csc.exe.config
+F:\Personal\LongPage-Chart\Web\bin\roslyn\csc.rsp
+F:\Personal\LongPage-Chart\Web\bin\roslyn\csi.exe
+F:\Personal\LongPage-Chart\Web\bin\roslyn\csi.exe.config
+F:\Personal\LongPage-Chart\Web\bin\roslyn\csi.rsp
+F:\Personal\LongPage-Chart\Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Personal\LongPage-Chart\Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Personal\LongPage-Chart\Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\Personal\LongPage-Chart\Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Personal\LongPage-Chart\Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\Personal\LongPage-Chart\Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Personal\LongPage-Chart\Web\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Personal\LongPage-Chart\Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\Personal\LongPage-Chart\Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\Personal\LongPage-Chart\Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Personal\LongPage-Chart\Web\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\Personal\LongPage-Chart\Web\bin\roslyn\System.AppContext.dll
+F:\Personal\LongPage-Chart\Web\bin\roslyn\System.Collections.Immutable.dll
+F:\Personal\LongPage-Chart\Web\bin\roslyn\System.Console.dll
+F:\Personal\LongPage-Chart\Web\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\Personal\LongPage-Chart\Web\bin\roslyn\System.Diagnostics.Process.dll
+F:\Personal\LongPage-Chart\Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\Personal\LongPage-Chart\Web\bin\roslyn\System.IO.Compression.dll
+F:\Personal\LongPage-Chart\Web\bin\roslyn\System.IO.FileSystem.dll
+F:\Personal\LongPage-Chart\Web\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+F:\Personal\LongPage-Chart\Web\bin\roslyn\System.IO.Pipes.dll
+F:\Personal\LongPage-Chart\Web\bin\roslyn\System.Reflection.Metadata.dll
+F:\Personal\LongPage-Chart\Web\bin\roslyn\System.Security.AccessControl.dll
+F:\Personal\LongPage-Chart\Web\bin\roslyn\System.Security.Claims.dll
+F:\Personal\LongPage-Chart\Web\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\Personal\LongPage-Chart\Web\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\Personal\LongPage-Chart\Web\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\Personal\LongPage-Chart\Web\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\Personal\LongPage-Chart\Web\bin\roslyn\System.Security.Principal.Windows.dll
+F:\Personal\LongPage-Chart\Web\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\Personal\LongPage-Chart\Web\bin\roslyn\System.Threading.Thread.dll
+F:\Personal\LongPage-Chart\Web\bin\roslyn\System.ValueTuple.dll
+F:\Personal\LongPage-Chart\Web\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\Personal\LongPage-Chart\Web\bin\roslyn\System.Xml.XmlDocument.dll
+F:\Personal\LongPage-Chart\Web\bin\roslyn\System.Xml.XPath.dll
+F:\Personal\LongPage-Chart\Web\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\Personal\LongPage-Chart\Web\bin\roslyn\vbc.exe
+F:\Personal\LongPage-Chart\Web\bin\roslyn\vbc.exe.config
+F:\Personal\LongPage-Chart\Web\bin\roslyn\vbc.rsp
+F:\Personal\LongPage-Chart\Web\bin\roslyn\VBCSCompiler.exe
+F:\Personal\LongPage-Chart\Web\bin\roslyn\VBCSCompiler.exe.config
+F:\Personal\LongPage-Chart\Web\bin\Web.dll.config
+F:\Personal\LongPage-Chart\Web\bin\Web.dll
+F:\Personal\LongPage-Chart\Web\bin\Web.pdb
+F:\Personal\LongPage-Chart\Web\bin\DocumentFormat.OpenXml.dll
+F:\Personal\LongPage-Chart\Web\bin\System.IO.FileSystem.Primitives.dll
+F:\Personal\LongPage-Chart\Web\bin\System.IO.Packaging.dll
+F:\Personal\LongPage-Chart\Web\bin\WindowsBase.dll
+F:\Personal\LongPage-Chart\Web\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+F:\Personal\LongPage-Chart\Web\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+F:\Personal\LongPage-Chart\Web\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+F:\Personal\LongPage-Chart\Web\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+F:\Personal\LongPage-Chart\Web\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+F:\Personal\LongPage-Chart\Web\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+F:\Personal\LongPage-Chart\Web\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+F:\Personal\LongPage-Chart\Web\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+F:\Personal\LongPage-Chart\Web\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+F:\Personal\LongPage-Chart\Web\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+F:\Personal\LongPage-Chart\Web\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+F:\Personal\LongPage-Chart\Web\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+F:\Personal\LongPage-Chart\Web\bin\stdole.dll
+F:\Personal\LongPage-Chart\Web\bin\DocumentFormat.OpenXml.xml
+F:\Personal\LongPage-Chart\Web\obj\Debug\Web.csprojAssemblyReference.cache
+F:\Personal\LongPage-Chart\Web\obj\Debug\Web.csproj.CoreCompileInputs.cache
+F:\Personal\LongPage-Chart\Web\obj\Debug\Web.csproj.CopyComplete
+F:\Personal\LongPage-Chart\Web\obj\Debug\Web.dll
+F:\Personal\LongPage-Chart\Web\obj\Debug\Web.pdb
+C:\Users\ezirima\Documents\PNG IMS\18 September 2019\LongPage-Chart\LongPage-Chart\Web\bin\ApplicationInsights.config
+C:\Users\ezirima\Documents\PNG IMS\18 September 2019\LongPage-Chart\LongPage-Chart\Web\bin\roslyn\csc.exe
+C:\Users\ezirima\Documents\PNG IMS\18 September 2019\LongPage-Chart\LongPage-Chart\Web\bin\roslyn\csc.exe.config
+C:\Users\ezirima\Documents\PNG IMS\18 September 2019\LongPage-Chart\LongPage-Chart\Web\bin\roslyn\csc.rsp
+C:\Users\ezirima\Documents\PNG IMS\18 September 2019\LongPage-Chart\LongPage-Chart\Web\bin\roslyn\csi.exe
+C:\Users\ezirima\Documents\PNG IMS\18 September 2019\LongPage-Chart\LongPage-Chart\Web\bin\roslyn\csi.exe.config
+C:\Users\ezirima\Documents\PNG IMS\18 September 2019\LongPage-Chart\LongPage-Chart\Web\bin\roslyn\csi.rsp
+C:\Users\ezirima\Documents\PNG IMS\18 September 2019\LongPage-Chart\LongPage-Chart\Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ezirima\Documents\PNG IMS\18 September 2019\LongPage-Chart\LongPage-Chart\Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ezirima\Documents\PNG IMS\18 September 2019\LongPage-Chart\LongPage-Chart\Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ezirima\Documents\PNG IMS\18 September 2019\LongPage-Chart\LongPage-Chart\Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ezirima\Documents\PNG IMS\18 September 2019\LongPage-Chart\LongPage-Chart\Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ezirima\Documents\PNG IMS\18 September 2019\LongPage-Chart\LongPage-Chart\Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ezirima\Documents\PNG IMS\18 September 2019\LongPage-Chart\LongPage-Chart\Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ezirima\Documents\PNG IMS\18 September 2019\LongPage-Chart\LongPage-Chart\Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ezirima\Documents\PNG IMS\18 September 2019\LongPage-Chart\LongPage-Chart\Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ezirima\Documents\PNG IMS\18 September 2019\LongPage-Chart\LongPage-Chart\Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ezirima\Documents\PNG IMS\18 September 2019\LongPage-Chart\LongPage-Chart\Web\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ezirima\Documents\PNG IMS\18 September 2019\LongPage-Chart\LongPage-Chart\Web\bin\roslyn\System.AppContext.dll
+C:\Users\ezirima\Documents\PNG IMS\18 September 2019\LongPage-Chart\LongPage-Chart\Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ezirima\Documents\PNG IMS\18 September 2019\LongPage-Chart\LongPage-Chart\Web\bin\roslyn\System.Console.dll
+C:\Users\ezirima\Documents\PNG IMS\18 September 2019\LongPage-Chart\LongPage-Chart\Web\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ezirima\Documents\PNG IMS\18 September 2019\LongPage-Chart\LongPage-Chart\Web\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\ezirima\Documents\PNG IMS\18 September 2019\LongPage-Chart\LongPage-Chart\Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ezirima\Documents\PNG IMS\18 September 2019\LongPage-Chart\LongPage-Chart\Web\bin\roslyn\System.IO.Compression.dll
+C:\Users\ezirima\Documents\PNG IMS\18 September 2019\LongPage-Chart\LongPage-Chart\Web\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ezirima\Documents\PNG IMS\18 September 2019\LongPage-Chart\LongPage-Chart\Web\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\ezirima\Documents\PNG IMS\18 September 2019\LongPage-Chart\LongPage-Chart\Web\bin\roslyn\System.IO.Pipes.dll
+C:\Users\ezirima\Documents\PNG IMS\18 September 2019\LongPage-Chart\LongPage-Chart\Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ezirima\Documents\PNG IMS\18 September 2019\LongPage-Chart\LongPage-Chart\Web\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\ezirima\Documents\PNG IMS\18 September 2019\LongPage-Chart\LongPage-Chart\Web\bin\roslyn\System.Security.Claims.dll
+C:\Users\ezirima\Documents\PNG IMS\18 September 2019\LongPage-Chart\LongPage-Chart\Web\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ezirima\Documents\PNG IMS\18 September 2019\LongPage-Chart\LongPage-Chart\Web\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ezirima\Documents\PNG IMS\18 September 2019\LongPage-Chart\LongPage-Chart\Web\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ezirima\Documents\PNG IMS\18 September 2019\LongPage-Chart\LongPage-Chart\Web\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ezirima\Documents\PNG IMS\18 September 2019\LongPage-Chart\LongPage-Chart\Web\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\ezirima\Documents\PNG IMS\18 September 2019\LongPage-Chart\LongPage-Chart\Web\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ezirima\Documents\PNG IMS\18 September 2019\LongPage-Chart\LongPage-Chart\Web\bin\roslyn\System.Threading.Thread.dll
+C:\Users\ezirima\Documents\PNG IMS\18 September 2019\LongPage-Chart\LongPage-Chart\Web\bin\roslyn\System.ValueTuple.dll
+C:\Users\ezirima\Documents\PNG IMS\18 September 2019\LongPage-Chart\LongPage-Chart\Web\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ezirima\Documents\PNG IMS\18 September 2019\LongPage-Chart\LongPage-Chart\Web\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ezirima\Documents\PNG IMS\18 September 2019\LongPage-Chart\LongPage-Chart\Web\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ezirima\Documents\PNG IMS\18 September 2019\LongPage-Chart\LongPage-Chart\Web\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ezirima\Documents\PNG IMS\18 September 2019\LongPage-Chart\LongPage-Chart\Web\bin\roslyn\vbc.exe
+C:\Users\ezirima\Documents\PNG IMS\18 September 2019\LongPage-Chart\LongPage-Chart\Web\bin\roslyn\vbc.exe.config
+C:\Users\ezirima\Documents\PNG IMS\18 September 2019\LongPage-Chart\LongPage-Chart\Web\bin\roslyn\vbc.rsp
+C:\Users\ezirima\Documents\PNG IMS\18 September 2019\LongPage-Chart\LongPage-Chart\Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\ezirima\Documents\PNG IMS\18 September 2019\LongPage-Chart\LongPage-Chart\Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ezirima\Documents\PNG IMS\18 September 2019\LongPage-Chart\LongPage-Chart\Web\bin\Web.dll.config
+C:\Users\ezirima\Documents\PNG IMS\18 September 2019\LongPage-Chart\LongPage-Chart\Web\bin\Web.dll
+C:\Users\ezirima\Documents\PNG IMS\18 September 2019\LongPage-Chart\LongPage-Chart\Web\bin\Web.pdb
+C:\Users\ezirima\Documents\PNG IMS\18 September 2019\LongPage-Chart\LongPage-Chart\Web\bin\DocumentFormat.OpenXml.dll
+C:\Users\ezirima\Documents\PNG IMS\18 September 2019\LongPage-Chart\LongPage-Chart\Web\bin\System.IO.FileSystem.Primitives.dll
+C:\Users\ezirima\Documents\PNG IMS\18 September 2019\LongPage-Chart\LongPage-Chart\Web\bin\System.IO.Packaging.dll
+C:\Users\ezirima\Documents\PNG IMS\18 September 2019\LongPage-Chart\LongPage-Chart\Web\bin\WindowsBase.dll
+C:\Users\ezirima\Documents\PNG IMS\18 September 2019\LongPage-Chart\LongPage-Chart\Web\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\ezirima\Documents\PNG IMS\18 September 2019\LongPage-Chart\LongPage-Chart\Web\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\ezirima\Documents\PNG IMS\18 September 2019\LongPage-Chart\LongPage-Chart\Web\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\ezirima\Documents\PNG IMS\18 September 2019\LongPage-Chart\LongPage-Chart\Web\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\ezirima\Documents\PNG IMS\18 September 2019\LongPage-Chart\LongPage-Chart\Web\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\ezirima\Documents\PNG IMS\18 September 2019\LongPage-Chart\LongPage-Chart\Web\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\ezirima\Documents\PNG IMS\18 September 2019\LongPage-Chart\LongPage-Chart\Web\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\ezirima\Documents\PNG IMS\18 September 2019\LongPage-Chart\LongPage-Chart\Web\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\ezirima\Documents\PNG IMS\18 September 2019\LongPage-Chart\LongPage-Chart\Web\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\ezirima\Documents\PNG IMS\18 September 2019\LongPage-Chart\LongPage-Chart\Web\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\ezirima\Documents\PNG IMS\18 September 2019\LongPage-Chart\LongPage-Chart\Web\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\ezirima\Documents\PNG IMS\18 September 2019\LongPage-Chart\LongPage-Chart\Web\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\ezirima\Documents\PNG IMS\18 September 2019\LongPage-Chart\LongPage-Chart\Web\bin\stdole.dll
+C:\Users\ezirima\Documents\PNG IMS\18 September 2019\LongPage-Chart\LongPage-Chart\Web\bin\DocumentFormat.OpenXml.xml
+C:\Users\ezirima\Documents\PNG IMS\18 September 2019\LongPage-Chart\LongPage-Chart\Web\obj\Debug\Web.csprojAssemblyReference.cache
+C:\Users\ezirima\Documents\PNG IMS\18 September 2019\LongPage-Chart\LongPage-Chart\Web\obj\Debug\Web.csproj.CoreCompileInputs.cache
+C:\Users\ezirima\Documents\PNG IMS\18 September 2019\LongPage-Chart\LongPage-Chart\Web\obj\Debug\Web.csproj.CopyComplete
+C:\Users\ezirima\Documents\PNG IMS\18 September 2019\LongPage-Chart\LongPage-Chart\Web\obj\Debug\Web.dll
+C:\Users\ezirima\Documents\PNG IMS\18 September 2019\LongPage-Chart\LongPage-Chart\Web\obj\Debug\Web.pdb
+G:\Project Work\Freelancer\009-Zado\Project\LongPage-Chart\LongPage-Chart\Web\bin\ApplicationInsights.config
+G:\Project Work\Freelancer\009-Zado\Project\LongPage-Chart\LongPage-Chart\Web\bin\roslyn\csc.exe
+G:\Project Work\Freelancer\009-Zado\Project\LongPage-Chart\LongPage-Chart\Web\bin\roslyn\csc.exe.config
+G:\Project Work\Freelancer\009-Zado\Project\LongPage-Chart\LongPage-Chart\Web\bin\roslyn\csc.rsp
+G:\Project Work\Freelancer\009-Zado\Project\LongPage-Chart\LongPage-Chart\Web\bin\roslyn\csi.exe
+G:\Project Work\Freelancer\009-Zado\Project\LongPage-Chart\LongPage-Chart\Web\bin\roslyn\csi.exe.config
+G:\Project Work\Freelancer\009-Zado\Project\LongPage-Chart\LongPage-Chart\Web\bin\roslyn\csi.rsp
+G:\Project Work\Freelancer\009-Zado\Project\LongPage-Chart\LongPage-Chart\Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage-Chart\LongPage-Chart\Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage-Chart\LongPage-Chart\Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage-Chart\LongPage-Chart\Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage-Chart\LongPage-Chart\Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage-Chart\LongPage-Chart\Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage-Chart\LongPage-Chart\Web\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\Project Work\Freelancer\009-Zado\Project\LongPage-Chart\LongPage-Chart\Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage-Chart\LongPage-Chart\Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage-Chart\LongPage-Chart\Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\Project Work\Freelancer\009-Zado\Project\LongPage-Chart\LongPage-Chart\Web\bin\roslyn\Microsoft.Win32.Primitives.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage-Chart\LongPage-Chart\Web\bin\roslyn\System.AppContext.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage-Chart\LongPage-Chart\Web\bin\roslyn\System.Collections.Immutable.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage-Chart\LongPage-Chart\Web\bin\roslyn\System.Console.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage-Chart\LongPage-Chart\Web\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage-Chart\LongPage-Chart\Web\bin\roslyn\System.Diagnostics.Process.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage-Chart\LongPage-Chart\Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage-Chart\LongPage-Chart\Web\bin\roslyn\System.IO.Compression.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage-Chart\LongPage-Chart\Web\bin\roslyn\System.IO.FileSystem.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage-Chart\LongPage-Chart\Web\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage-Chart\LongPage-Chart\Web\bin\roslyn\System.IO.Pipes.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage-Chart\LongPage-Chart\Web\bin\roslyn\System.Reflection.Metadata.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage-Chart\LongPage-Chart\Web\bin\roslyn\System.Security.AccessControl.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage-Chart\LongPage-Chart\Web\bin\roslyn\System.Security.Claims.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage-Chart\LongPage-Chart\Web\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage-Chart\LongPage-Chart\Web\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage-Chart\LongPage-Chart\Web\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage-Chart\LongPage-Chart\Web\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage-Chart\LongPage-Chart\Web\bin\roslyn\System.Security.Principal.Windows.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage-Chart\LongPage-Chart\Web\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage-Chart\LongPage-Chart\Web\bin\roslyn\System.Threading.Thread.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage-Chart\LongPage-Chart\Web\bin\roslyn\System.ValueTuple.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage-Chart\LongPage-Chart\Web\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage-Chart\LongPage-Chart\Web\bin\roslyn\System.Xml.XmlDocument.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage-Chart\LongPage-Chart\Web\bin\roslyn\System.Xml.XPath.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage-Chart\LongPage-Chart\Web\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage-Chart\LongPage-Chart\Web\bin\roslyn\vbc.exe
+G:\Project Work\Freelancer\009-Zado\Project\LongPage-Chart\LongPage-Chart\Web\bin\roslyn\vbc.exe.config
+G:\Project Work\Freelancer\009-Zado\Project\LongPage-Chart\LongPage-Chart\Web\bin\roslyn\vbc.rsp
+G:\Project Work\Freelancer\009-Zado\Project\LongPage-Chart\LongPage-Chart\Web\bin\roslyn\VBCSCompiler.exe
+G:\Project Work\Freelancer\009-Zado\Project\LongPage-Chart\LongPage-Chart\Web\bin\roslyn\VBCSCompiler.exe.config
+G:\Project Work\Freelancer\009-Zado\Project\LongPage-Chart\LongPage-Chart\Web\bin\Web.dll.config
+G:\Project Work\Freelancer\009-Zado\Project\LongPage-Chart\LongPage-Chart\Web\bin\Web.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage-Chart\LongPage-Chart\Web\bin\Web.pdb
+G:\Project Work\Freelancer\009-Zado\Project\LongPage-Chart\LongPage-Chart\Web\bin\DocumentFormat.OpenXml.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage-Chart\LongPage-Chart\Web\bin\System.IO.FileSystem.Primitives.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage-Chart\LongPage-Chart\Web\bin\System.IO.Packaging.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage-Chart\LongPage-Chart\Web\bin\WindowsBase.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage-Chart\LongPage-Chart\Web\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage-Chart\LongPage-Chart\Web\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage-Chart\LongPage-Chart\Web\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage-Chart\LongPage-Chart\Web\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage-Chart\LongPage-Chart\Web\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage-Chart\LongPage-Chart\Web\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage-Chart\LongPage-Chart\Web\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage-Chart\LongPage-Chart\Web\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage-Chart\LongPage-Chart\Web\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage-Chart\LongPage-Chart\Web\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage-Chart\LongPage-Chart\Web\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage-Chart\LongPage-Chart\Web\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage-Chart\LongPage-Chart\Web\bin\stdole.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage-Chart\LongPage-Chart\Web\bin\DocumentFormat.OpenXml.xml
+G:\Project Work\Freelancer\009-Zado\Project\LongPage-Chart\LongPage-Chart\Web\obj\Debug\Web.csprojAssemblyReference.cache
+G:\Project Work\Freelancer\009-Zado\Project\LongPage-Chart\LongPage-Chart\Web\obj\Debug\Web.csproj.CoreCompileInputs.cache
+G:\Project Work\Freelancer\009-Zado\Project\LongPage-Chart\LongPage-Chart\Web\obj\Debug\Web.csproj.CopyComplete
+G:\Project Work\Freelancer\009-Zado\Project\LongPage-Chart\LongPage-Chart\Web\obj\Debug\Web.dll
+G:\Project Work\Freelancer\009-Zado\Project\LongPage-Chart\LongPage-Chart\Web\obj\Debug\Web.pdb
+C:\Users\ezirima\Documents\PNG IMS\23 September 2019\LongPage-Chart\LongPage-Chart\Web\bin\ApplicationInsights.config
+C:\Users\ezirima\Documents\PNG IMS\23 September 2019\LongPage-Chart\LongPage-Chart\Web\bin\roslyn\csc.exe
+C:\Users\ezirima\Documents\PNG IMS\23 September 2019\LongPage-Chart\LongPage-Chart\Web\bin\roslyn\csc.exe.config
+C:\Users\ezirima\Documents\PNG IMS\23 September 2019\LongPage-Chart\LongPage-Chart\Web\bin\roslyn\csc.rsp
+C:\Users\ezirima\Documents\PNG IMS\23 September 2019\LongPage-Chart\LongPage-Chart\Web\bin\roslyn\csi.exe
+C:\Users\ezirima\Documents\PNG IMS\23 September 2019\LongPage-Chart\LongPage-Chart\Web\bin\roslyn\csi.exe.config
+C:\Users\ezirima\Documents\PNG IMS\23 September 2019\LongPage-Chart\LongPage-Chart\Web\bin\roslyn\csi.rsp
+C:\Users\ezirima\Documents\PNG IMS\23 September 2019\LongPage-Chart\LongPage-Chart\Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ezirima\Documents\PNG IMS\23 September 2019\LongPage-Chart\LongPage-Chart\Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ezirima\Documents\PNG IMS\23 September 2019\LongPage-Chart\LongPage-Chart\Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ezirima\Documents\PNG IMS\23 September 2019\LongPage-Chart\LongPage-Chart\Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ezirima\Documents\PNG IMS\23 September 2019\LongPage-Chart\LongPage-Chart\Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ezirima\Documents\PNG IMS\23 September 2019\LongPage-Chart\LongPage-Chart\Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ezirima\Documents\PNG IMS\23 September 2019\LongPage-Chart\LongPage-Chart\Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ezirima\Documents\PNG IMS\23 September 2019\LongPage-Chart\LongPage-Chart\Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ezirima\Documents\PNG IMS\23 September 2019\LongPage-Chart\LongPage-Chart\Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ezirima\Documents\PNG IMS\23 September 2019\LongPage-Chart\LongPage-Chart\Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ezirima\Documents\PNG IMS\23 September 2019\LongPage-Chart\LongPage-Chart\Web\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ezirima\Documents\PNG IMS\23 September 2019\LongPage-Chart\LongPage-Chart\Web\bin\roslyn\System.AppContext.dll
+C:\Users\ezirima\Documents\PNG IMS\23 September 2019\LongPage-Chart\LongPage-Chart\Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ezirima\Documents\PNG IMS\23 September 2019\LongPage-Chart\LongPage-Chart\Web\bin\roslyn\System.Console.dll
+C:\Users\ezirima\Documents\PNG IMS\23 September 2019\LongPage-Chart\LongPage-Chart\Web\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ezirima\Documents\PNG IMS\23 September 2019\LongPage-Chart\LongPage-Chart\Web\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\ezirima\Documents\PNG IMS\23 September 2019\LongPage-Chart\LongPage-Chart\Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ezirima\Documents\PNG IMS\23 September 2019\LongPage-Chart\LongPage-Chart\Web\bin\roslyn\System.IO.Compression.dll
+C:\Users\ezirima\Documents\PNG IMS\23 September 2019\LongPage-Chart\LongPage-Chart\Web\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ezirima\Documents\PNG IMS\23 September 2019\LongPage-Chart\LongPage-Chart\Web\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\ezirima\Documents\PNG IMS\23 September 2019\LongPage-Chart\LongPage-Chart\Web\bin\roslyn\System.IO.Pipes.dll
+C:\Users\ezirima\Documents\PNG IMS\23 September 2019\LongPage-Chart\LongPage-Chart\Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ezirima\Documents\PNG IMS\23 September 2019\LongPage-Chart\LongPage-Chart\Web\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\ezirima\Documents\PNG IMS\23 September 2019\LongPage-Chart\LongPage-Chart\Web\bin\roslyn\System.Security.Claims.dll
+C:\Users\ezirima\Documents\PNG IMS\23 September 2019\LongPage-Chart\LongPage-Chart\Web\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ezirima\Documents\PNG IMS\23 September 2019\LongPage-Chart\LongPage-Chart\Web\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ezirima\Documents\PNG IMS\23 September 2019\LongPage-Chart\LongPage-Chart\Web\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ezirima\Documents\PNG IMS\23 September 2019\LongPage-Chart\LongPage-Chart\Web\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ezirima\Documents\PNG IMS\23 September 2019\LongPage-Chart\LongPage-Chart\Web\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\ezirima\Documents\PNG IMS\23 September 2019\LongPage-Chart\LongPage-Chart\Web\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ezirima\Documents\PNG IMS\23 September 2019\LongPage-Chart\LongPage-Chart\Web\bin\roslyn\System.Threading.Thread.dll
+C:\Users\ezirima\Documents\PNG IMS\23 September 2019\LongPage-Chart\LongPage-Chart\Web\bin\roslyn\System.ValueTuple.dll
+C:\Users\ezirima\Documents\PNG IMS\23 September 2019\LongPage-Chart\LongPage-Chart\Web\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ezirima\Documents\PNG IMS\23 September 2019\LongPage-Chart\LongPage-Chart\Web\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ezirima\Documents\PNG IMS\23 September 2019\LongPage-Chart\LongPage-Chart\Web\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ezirima\Documents\PNG IMS\23 September 2019\LongPage-Chart\LongPage-Chart\Web\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ezirima\Documents\PNG IMS\23 September 2019\LongPage-Chart\LongPage-Chart\Web\bin\roslyn\vbc.exe
+C:\Users\ezirima\Documents\PNG IMS\23 September 2019\LongPage-Chart\LongPage-Chart\Web\bin\roslyn\vbc.exe.config
+C:\Users\ezirima\Documents\PNG IMS\23 September 2019\LongPage-Chart\LongPage-Chart\Web\bin\roslyn\vbc.rsp
+C:\Users\ezirima\Documents\PNG IMS\23 September 2019\LongPage-Chart\LongPage-Chart\Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\ezirima\Documents\PNG IMS\23 September 2019\LongPage-Chart\LongPage-Chart\Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ezirima\Documents\PNG IMS\23 September 2019\LongPage-Chart\LongPage-Chart\Web\bin\Web.dll.config
+C:\Users\ezirima\Documents\PNG IMS\23 September 2019\LongPage-Chart\LongPage-Chart\Web\bin\Web.dll
+C:\Users\ezirima\Documents\PNG IMS\23 September 2019\LongPage-Chart\LongPage-Chart\Web\bin\Web.pdb
+C:\Users\ezirima\Documents\PNG IMS\23 September 2019\LongPage-Chart\LongPage-Chart\Web\bin\DocumentFormat.OpenXml.dll
+C:\Users\ezirima\Documents\PNG IMS\23 September 2019\LongPage-Chart\LongPage-Chart\Web\bin\System.IO.FileSystem.Primitives.dll
+C:\Users\ezirima\Documents\PNG IMS\23 September 2019\LongPage-Chart\LongPage-Chart\Web\bin\System.IO.Packaging.dll
+C:\Users\ezirima\Documents\PNG IMS\23 September 2019\LongPage-Chart\LongPage-Chart\Web\bin\WindowsBase.dll
+C:\Users\ezirima\Documents\PNG IMS\23 September 2019\LongPage-Chart\LongPage-Chart\Web\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\ezirima\Documents\PNG IMS\23 September 2019\LongPage-Chart\LongPage-Chart\Web\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\ezirima\Documents\PNG IMS\23 September 2019\LongPage-Chart\LongPage-Chart\Web\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\ezirima\Documents\PNG IMS\23 September 2019\LongPage-Chart\LongPage-Chart\Web\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\ezirima\Documents\PNG IMS\23 September 2019\LongPage-Chart\LongPage-Chart\Web\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\ezirima\Documents\PNG IMS\23 September 2019\LongPage-Chart\LongPage-Chart\Web\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\ezirima\Documents\PNG IMS\23 September 2019\LongPage-Chart\LongPage-Chart\Web\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\ezirima\Documents\PNG IMS\23 September 2019\LongPage-Chart\LongPage-Chart\Web\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\ezirima\Documents\PNG IMS\23 September 2019\LongPage-Chart\LongPage-Chart\Web\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\ezirima\Documents\PNG IMS\23 September 2019\LongPage-Chart\LongPage-Chart\Web\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\ezirima\Documents\PNG IMS\23 September 2019\LongPage-Chart\LongPage-Chart\Web\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\ezirima\Documents\PNG IMS\23 September 2019\LongPage-Chart\LongPage-Chart\Web\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\ezirima\Documents\PNG IMS\23 September 2019\LongPage-Chart\LongPage-Chart\Web\bin\stdole.dll
+C:\Users\ezirima\Documents\PNG IMS\23 September 2019\LongPage-Chart\LongPage-Chart\Web\bin\DocumentFormat.OpenXml.xml
+C:\Users\ezirima\Documents\PNG IMS\23 September 2019\LongPage-Chart\LongPage-Chart\Web\obj\Debug\Web.csprojAssemblyReference.cache
+C:\Users\ezirima\Documents\PNG IMS\23 September 2019\LongPage-Chart\LongPage-Chart\Web\obj\Debug\Web.csproj.CoreCompileInputs.cache
+C:\Users\ezirima\Documents\PNG IMS\23 September 2019\LongPage-Chart\LongPage-Chart\Web\obj\Debug\Web.csproj.CopyComplete
+C:\Users\ezirima\Documents\PNG IMS\23 September 2019\LongPage-Chart\LongPage-Chart\Web\obj\Debug\Web.dll
+C:\Users\ezirima\Documents\PNG IMS\23 September 2019\LongPage-Chart\LongPage-Chart\Web\obj\Debug\Web.pdb
+G:\LongPage-Chart - Latest\LongPage-Chart - Latest\Web\bin\ApplicationInsights.config
+G:\LongPage-Chart - Latest\LongPage-Chart - Latest\Web\bin\roslyn\csc.exe
+G:\LongPage-Chart - Latest\LongPage-Chart - Latest\Web\bin\roslyn\csc.exe.config
+G:\LongPage-Chart - Latest\LongPage-Chart - Latest\Web\bin\roslyn\csc.rsp
+G:\LongPage-Chart - Latest\LongPage-Chart - Latest\Web\bin\roslyn\csi.exe
+G:\LongPage-Chart - Latest\LongPage-Chart - Latest\Web\bin\roslyn\csi.exe.config
+G:\LongPage-Chart - Latest\LongPage-Chart - Latest\Web\bin\roslyn\csi.rsp
+G:\LongPage-Chart - Latest\LongPage-Chart - Latest\Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\LongPage-Chart - Latest\LongPage-Chart - Latest\Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\LongPage-Chart - Latest\LongPage-Chart - Latest\Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\LongPage-Chart - Latest\LongPage-Chart - Latest\Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\LongPage-Chart - Latest\LongPage-Chart - Latest\Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\LongPage-Chart - Latest\LongPage-Chart - Latest\Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\LongPage-Chart - Latest\LongPage-Chart - Latest\Web\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\LongPage-Chart - Latest\LongPage-Chart - Latest\Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\LongPage-Chart - Latest\LongPage-Chart - Latest\Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\LongPage-Chart - Latest\LongPage-Chart - Latest\Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\LongPage-Chart - Latest\LongPage-Chart - Latest\Web\bin\roslyn\Microsoft.Win32.Primitives.dll
+G:\LongPage-Chart - Latest\LongPage-Chart - Latest\Web\bin\roslyn\System.AppContext.dll
+G:\LongPage-Chart - Latest\LongPage-Chart - Latest\Web\bin\roslyn\System.Collections.Immutable.dll
+G:\LongPage-Chart - Latest\LongPage-Chart - Latest\Web\bin\roslyn\System.Console.dll
+G:\LongPage-Chart - Latest\LongPage-Chart - Latest\Web\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\LongPage-Chart - Latest\LongPage-Chart - Latest\Web\bin\roslyn\System.Diagnostics.Process.dll
+G:\LongPage-Chart - Latest\LongPage-Chart - Latest\Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\LongPage-Chart - Latest\LongPage-Chart - Latest\Web\bin\roslyn\System.IO.Compression.dll
+G:\LongPage-Chart - Latest\LongPage-Chart - Latest\Web\bin\roslyn\System.IO.FileSystem.dll
+G:\LongPage-Chart - Latest\LongPage-Chart - Latest\Web\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+G:\LongPage-Chart - Latest\LongPage-Chart - Latest\Web\bin\roslyn\System.IO.Pipes.dll
+G:\LongPage-Chart - Latest\LongPage-Chart - Latest\Web\bin\roslyn\System.Reflection.Metadata.dll
+G:\LongPage-Chart - Latest\LongPage-Chart - Latest\Web\bin\roslyn\System.Security.AccessControl.dll
+G:\LongPage-Chart - Latest\LongPage-Chart - Latest\Web\bin\roslyn\System.Security.Claims.dll
+G:\LongPage-Chart - Latest\LongPage-Chart - Latest\Web\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\LongPage-Chart - Latest\LongPage-Chart - Latest\Web\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\LongPage-Chart - Latest\LongPage-Chart - Latest\Web\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\LongPage-Chart - Latest\LongPage-Chart - Latest\Web\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\LongPage-Chart - Latest\LongPage-Chart - Latest\Web\bin\roslyn\System.Security.Principal.Windows.dll
+G:\LongPage-Chart - Latest\LongPage-Chart - Latest\Web\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\LongPage-Chart - Latest\LongPage-Chart - Latest\Web\bin\roslyn\System.Threading.Thread.dll
+G:\LongPage-Chart - Latest\LongPage-Chart - Latest\Web\bin\roslyn\System.ValueTuple.dll
+G:\LongPage-Chart - Latest\LongPage-Chart - Latest\Web\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\LongPage-Chart - Latest\LongPage-Chart - Latest\Web\bin\roslyn\System.Xml.XmlDocument.dll
+G:\LongPage-Chart - Latest\LongPage-Chart - Latest\Web\bin\roslyn\System.Xml.XPath.dll
+G:\LongPage-Chart - Latest\LongPage-Chart - Latest\Web\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\LongPage-Chart - Latest\LongPage-Chart - Latest\Web\bin\roslyn\vbc.exe
+G:\LongPage-Chart - Latest\LongPage-Chart - Latest\Web\bin\roslyn\vbc.exe.config
+G:\LongPage-Chart - Latest\LongPage-Chart - Latest\Web\bin\roslyn\vbc.rsp
+G:\LongPage-Chart - Latest\LongPage-Chart - Latest\Web\bin\roslyn\VBCSCompiler.exe
+G:\LongPage-Chart - Latest\LongPage-Chart - Latest\Web\bin\roslyn\VBCSCompiler.exe.config
+G:\LongPage-Chart - Latest\LongPage-Chart - Latest\Web\bin\Web.dll.config
+G:\LongPage-Chart - Latest\LongPage-Chart - Latest\Web\bin\Web.dll
+G:\LongPage-Chart - Latest\LongPage-Chart - Latest\Web\bin\Web.pdb
+G:\LongPage-Chart - Latest\LongPage-Chart - Latest\Web\bin\DocumentFormat.OpenXml.dll
+G:\LongPage-Chart - Latest\LongPage-Chart - Latest\Web\bin\System.IO.FileSystem.Primitives.dll
+G:\LongPage-Chart - Latest\LongPage-Chart - Latest\Web\bin\System.IO.Packaging.dll
+G:\LongPage-Chart - Latest\LongPage-Chart - Latest\Web\bin\WindowsBase.dll
+G:\LongPage-Chart - Latest\LongPage-Chart - Latest\Web\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+G:\LongPage-Chart - Latest\LongPage-Chart - Latest\Web\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+G:\LongPage-Chart - Latest\LongPage-Chart - Latest\Web\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+G:\LongPage-Chart - Latest\LongPage-Chart - Latest\Web\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+G:\LongPage-Chart - Latest\LongPage-Chart - Latest\Web\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+G:\LongPage-Chart - Latest\LongPage-Chart - Latest\Web\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+G:\LongPage-Chart - Latest\LongPage-Chart - Latest\Web\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+G:\LongPage-Chart - Latest\LongPage-Chart - Latest\Web\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+G:\LongPage-Chart - Latest\LongPage-Chart - Latest\Web\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+G:\LongPage-Chart - Latest\LongPage-Chart - Latest\Web\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+G:\LongPage-Chart - Latest\LongPage-Chart - Latest\Web\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+G:\LongPage-Chart - Latest\LongPage-Chart - Latest\Web\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+G:\LongPage-Chart - Latest\LongPage-Chart - Latest\Web\bin\stdole.dll
+G:\LongPage-Chart - Latest\LongPage-Chart - Latest\Web\bin\DocumentFormat.OpenXml.xml
+G:\LongPage-Chart - Latest\LongPage-Chart - Latest\Web\obj\Debug\Web.csprojAssemblyReference.cache
+G:\LongPage-Chart - Latest\LongPage-Chart - Latest\Web\obj\Debug\Web.csproj.CoreCompileInputs.cache
+G:\LongPage-Chart - Latest\LongPage-Chart - Latest\Web\obj\Debug\Web.csproj.CopyComplete
+G:\LongPage-Chart - Latest\LongPage-Chart - Latest\Web\obj\Debug\Web.dll
+G:\LongPage-Chart - Latest\LongPage-Chart - Latest\Web\obj\Debug\Web.pdb

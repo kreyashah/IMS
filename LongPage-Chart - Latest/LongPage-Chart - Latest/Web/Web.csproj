@@ -1,0 +1,897 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.5\build\net45\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props" Condition="Exists('..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.5\build\net45\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props')" />
+  <Import Project="..\packages\Microsoft.Net.Compilers.2.1.0\build\Microsoft.Net.Compilers.props" Condition="Exists('..\packages\Microsoft.Net.Compilers.2.1.0\build\Microsoft.Net.Compilers.props')" />
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{3476A110-5A38-4E17-9792-E8265C785664}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Web</RootNamespace>
+    <AssemblyName>Web</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <UseIISExpress>true</UseIISExpress>
+    <Use64BitIISExpress />
+    <IISExpressSSLPort />
+    <IISExpressAnonymousAuthentication />
+    <IISExpressWindowsAuthentication />
+    <IISExpressUseClassicPipelineMode />
+    <UseGlobalApplicationHostFile />
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AjaxControlToolkit, Version=3.0.30512.17815, Culture=neutral, PublicKeyToken=28f01b0e84b6d53e, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Users\cgpat\Downloads\Chrome Downloads\GridViewAddEditRecordsusingModalPopup\Bin\AjaxControlToolkit.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.3500.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.3500.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.3500.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="DocumentFormat.OpenXml, Version=2.9.1.0, Culture=neutral, PublicKeyToken=8fb06cb64d019a17, processorArchitecture=MSIL">
+      <HintPath>..\packages\DocumentFormat.OpenXml.2.9.1\lib\net46\DocumentFormat.OpenXml.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.CodeDom.Providers.DotNetCompilerPlatform, Version=1.0.5.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.5\lib\net45\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Data.Linq" />
+    <Reference Include="System.IO.FileSystem.Primitives, Version=4.0.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.IO.FileSystem.Primitives.4.3.0\lib\net46\System.IO.FileSystem.Primitives.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.IO.Packaging, Version=4.0.3.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.IO.Packaging.4.5.0\lib\net46\System.IO.Packaging.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Web.DataVisualization" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="Microsoft.Web.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <Private>True</Private>
+      <HintPath>..\packages\Microsoft.Web.Infrastructure.1.0.0.0\lib\net40\Microsoft.Web.Infrastructure.dll</HintPath>
+    </Reference>
+    <Reference Include="AspNet.ScriptManager.bootstrap">
+      <HintPath>..\packages\AspNet.ScriptManager.bootstrap.3.0.0\lib\net45\AspNet.ScriptManager.bootstrap.dll</HintPath>
+    </Reference>
+    <Reference Include="AspNet.ScriptManager.jQuery">
+      <HintPath>..\packages\AspNet.ScriptManager.jQuery.1.10.2\lib\net45\AspNet.ScriptManager.jQuery.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ScriptManager.MSAjax">
+      <HintPath>..\packages\Microsoft.AspNet.ScriptManager.MSAjax.5.0.0\lib\net45\Microsoft.ScriptManager.MSAjax.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ScriptManager.WebForms">
+      <HintPath>..\packages\Microsoft.AspNet.ScriptManager.WebForms.5.0.0\lib\net45\Microsoft.ScriptManager.WebForms.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Optimization, Version=1.1.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35">
+      <HintPath>..\packages\Microsoft.AspNet.Web.Optimization.1.1.3\lib\net40\System.Web.Optimization.dll</HintPath>
+    </Reference>
+    <Reference Include="WebGrease">
+      <Private>True</Private>
+      <HintPath>..\packages\WebGrease.1.5.2\lib\WebGrease.dll</HintPath>
+    </Reference>
+    <Reference Include="Antlr3.Runtime">
+      <Private>True</Private>
+      <HintPath>..\packages\Antlr.3.4.1.9004\lib\Antlr3.Runtime.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.AspNet.Web.Optimization.WebForms">
+      <Private>True</Private>
+      <HintPath>..\packages\Microsoft.AspNet.Web.Optimization.WebForms.1.1.3\lib\net45\Microsoft.AspNet.Web.Optimization.WebForms.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.AspNet.FriendlyUrls">
+      <HintPath>..\packages\Microsoft.AspNet.FriendlyUrls.Core.1.0.2\lib\net45\Microsoft.AspNet.FriendlyUrls.dll</HintPath>
+    </Reference>
+    <Reference Include="WindowsBase, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\WindowsBase.4.6.1055.0\lib\WindowsBase.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="Newtonsoft.Json">
+      <HintPath>..\packages\Newtonsoft.Json.6.0.4\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ApplicationInsights">
+      <HintPath>..\packages\Microsoft.ApplicationInsights.2.2.0\lib\net45\Microsoft.ApplicationInsights.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.AI.Agent.Intercept">
+      <HintPath>..\packages\Microsoft.ApplicationInsights.Agent.Intercept.2.0.6\lib\net45\Microsoft.AI.Agent.Intercept.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.AI.DependencyCollector">
+      <HintPath>..\packages\Microsoft.ApplicationInsights.DependencyCollector.2.2.0\lib\net45\Microsoft.AI.DependencyCollector.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.AI.PerfCounterCollector">
+      <HintPath>..\packages\Microsoft.ApplicationInsights.PerfCounterCollector.2.2.0\lib\net45\Microsoft.AI.PerfCounterCollector.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.AI.ServerTelemetryChannel">
+      <HintPath>..\packages\Microsoft.ApplicationInsights.WindowsServer.TelemetryChannel.2.2.0\lib\net45\Microsoft.AI.ServerTelemetryChannel.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.AI.WindowsServer">
+      <HintPath>..\packages\Microsoft.ApplicationInsights.WindowsServer.2.2.0\lib\net45\Microsoft.AI.WindowsServer.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.AI.Web">
+      <HintPath>..\packages\Microsoft.ApplicationInsights.Web.2.2.0\lib\net45\Microsoft.AI.Web.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="About.aspx" />
+    <Content Include="Admin.aspx" />
+    <Content Include="bin\AjaxControlToolkit.dll" />
+    <Content Include="bin\Antlr3.Runtime.dll" />
+    <Content Include="bin\Antlr3.Runtime.pdb" />
+    <Content Include="bin\AspNet.ScriptManager.bootstrap.dll" />
+    <Content Include="bin\AspNet.ScriptManager.jQuery.dll" />
+    <Content Include="bin\CrystalDecisions.CrystalReports.Engine.dll" />
+    <Content Include="bin\CrystalDecisions.ReportAppServer.ClientDoc.dll" />
+    <Content Include="bin\CrystalDecisions.ReportAppServer.CommLayer.dll" />
+    <Content Include="bin\CrystalDecisions.ReportAppServer.CommonControls.dll" />
+    <Content Include="bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll" />
+    <Content Include="bin\CrystalDecisions.ReportAppServer.Controllers.dll" />
+    <Content Include="bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll" />
+    <Content Include="bin\CrystalDecisions.ReportAppServer.DataDefModel.dll" />
+    <Content Include="bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll" />
+    <Content Include="bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll" />
+    <Content Include="bin\CrystalDecisions.ReportAppServer.Prompting.dll" />
+    <Content Include="bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll" />
+    <Content Include="bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll" />
+    <Content Include="bin\CrystalDecisions.ReportSource.dll" />
+    <Content Include="bin\CrystalDecisions.Shared.dll" />
+    <Content Include="bin\CrystalDecisions.Web.dll" />
+    <Content Include="bin\iom.dll" />
+    <Content Include="bin\iom.pdb" />
+    <Content Include="bin\keepDLL\iom.dll" />
+    <Content Include="bin\keepDLL\iom.pdb" />
+    <Content Include="bin\Microsoft.AI.Agent.Intercept.dll" />
+    <Content Include="bin\Microsoft.AI.DependencyCollector.dll" />
+    <Content Include="bin\Microsoft.AI.DependencyCollector.xml" />
+    <Content Include="bin\Microsoft.AI.PerfCounterCollector.dll" />
+    <Content Include="bin\Microsoft.AI.ServerTelemetryChannel.dll" />
+    <Content Include="bin\Microsoft.AI.ServerTelemetryChannel.xml" />
+    <Content Include="bin\Microsoft.AI.Web.dll" />
+    <Content Include="bin\Microsoft.AI.Web.xml" />
+    <Content Include="bin\Microsoft.AI.WindowsServer.dll" />
+    <Content Include="bin\Microsoft.AI.WindowsServer.xml" />
+    <Content Include="bin\Microsoft.ApplicationInsights.dll" />
+    <Content Include="bin\Microsoft.ApplicationInsights.xml" />
+    <Content Include="bin\Microsoft.AspNet.FriendlyUrls.dll" />
+    <Content Include="bin\Microsoft.AspNet.FriendlyUrls.xml" />
+    <Content Include="bin\Microsoft.AspNet.Web.Optimization.WebForms.dll" />
+    <Content Include="bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll" />
+    <Content Include="bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml" />
+    <Content Include="bin\Microsoft.ScriptManager.MSAjax.dll" />
+    <Content Include="bin\Microsoft.ScriptManager.WebForms.dll" />
+    <Content Include="bin\Microsoft.Web.Infrastructure.dll" />
+    <Content Include="bin\Newtonsoft.Json.dll" />
+    <Content Include="bin\Newtonsoft.Json.xml" />
+    <Content Include="bin\roslyn\csc.exe" />
+    <Content Include="bin\roslyn\csi.exe" />
+    <Content Include="bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll" />
+    <Content Include="bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll" />
+    <Content Include="bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll" />
+    <Content Include="bin\roslyn\Microsoft.CodeAnalysis.dll" />
+    <Content Include="bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll" />
+    <Content Include="bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll" />
+    <Content Include="bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll" />
+    <Content Include="bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll" />
+    <Content Include="bin\roslyn\Microsoft.Win32.Primitives.dll" />
+    <Content Include="bin\roslyn\System.AppContext.dll" />
+    <Content Include="bin\roslyn\System.Collections.Immutable.dll" />
+    <Content Include="bin\roslyn\System.Console.dll" />
+    <Content Include="bin\roslyn\System.Diagnostics.FileVersionInfo.dll" />
+    <Content Include="bin\roslyn\System.Diagnostics.Process.dll" />
+    <Content Include="bin\roslyn\System.Diagnostics.StackTrace.dll" />
+    <Content Include="bin\roslyn\System.IO.Compression.dll" />
+    <Content Include="bin\roslyn\System.IO.FileSystem.dll" />
+    <Content Include="bin\roslyn\System.IO.FileSystem.DriveInfo.dll" />
+    <Content Include="bin\roslyn\System.IO.FileSystem.Primitives.dll" />
+    <Content Include="bin\roslyn\System.IO.Pipes.dll" />
+    <Content Include="bin\roslyn\System.Reflection.Metadata.dll" />
+    <Content Include="bin\roslyn\System.Security.AccessControl.dll" />
+    <Content Include="bin\roslyn\System.Security.Claims.dll" />
+    <Content Include="bin\roslyn\System.Security.Cryptography.Algorithms.dll" />
+    <Content Include="bin\roslyn\System.Security.Cryptography.Encoding.dll" />
+    <Content Include="bin\roslyn\System.Security.Cryptography.Primitives.dll" />
+    <Content Include="bin\roslyn\System.Security.Cryptography.X509Certificates.dll" />
+    <Content Include="bin\roslyn\System.Security.Principal.Windows.dll" />
+    <Content Include="bin\roslyn\System.Text.Encoding.CodePages.dll" />
+    <Content Include="bin\roslyn\System.Threading.Thread.dll" />
+    <Content Include="bin\roslyn\System.ValueTuple.dll" />
+    <Content Include="bin\roslyn\System.Xml.ReaderWriter.dll" />
+    <Content Include="bin\roslyn\System.Xml.XmlDocument.dll" />
+    <Content Include="bin\roslyn\System.Xml.XPath.dll" />
+    <Content Include="bin\roslyn\System.Xml.XPath.XDocument.dll" />
+    <Content Include="bin\roslyn\vbc.exe" />
+    <Content Include="bin\roslyn\VBCSCompiler.exe" />
+    <Content Include="bin\stdole.dll" />
+    <Content Include="bin\System.Web.Optimization.dll" />
+    <Content Include="bin\System.Web.Optimization.xml" />
+    <Content Include="bin\Web.dll" />
+    <Content Include="bin\Web.pdb" />
+    <Content Include="bin\WebGrease.dll" />
+    <Content Include="Contact.aspx" />
+    <Content Include="Content\bootstrap.css" />
+    <Content Include="Content\bootstrap.min.css" />
+    <Content Include="Content\images\best_solution.png" />
+    <Content Include="Content\images\cap_bg.png" />
+    <Content Include="Content\images\gallery\image_01_l.jpg" />
+    <Content Include="Content\images\gallery\image_01_s.jpg" />
+    <Content Include="Content\images\gallery\image_02_l.jpg" />
+    <Content Include="Content\images\gallery\image_02_s.jpg" />
+    <Content Include="Content\images\gallery\image_03_l.jpg" />
+    <Content Include="Content\images\gallery\image_03_s.jpg" />
+    <Content Include="Content\images\gallery\image_04_l.jpg" />
+    <Content Include="Content\images\gallery\image_04_s.jpg" />
+    <Content Include="Content\images\gallery\image_05_l.jpg" />
+    <Content Include="Content\images\gallery\image_05_s.jpg" />
+    <Content Include="Content\images\gallery\image_06_l.jpg" />
+    <Content Include="Content\images\gallery\image_06_s.jpg" />
+    <Content Include="Content\images\lightbox-btn-close.gif" />
+    <Content Include="Content\images\login-middle.png" />
+    <Content Include="Content\images\login-top.png" />
+    <Content Include="Content\images\map_big.jpg" />
+    <Content Include="Content\images\map_thumb.jpg" />
+    <Content Include="Content\images\more_btn.png" />
+    <Content Include="Content\images\onebit_08.png" />
+    <Content Include="Content\images\onebit_15.png" />
+    <Content Include="Content\images\onebit_16.png" />
+    <Content Include="Content\images\onebit_17.png" />
+    <Content Include="Content\images\onebit_18.png" />
+    <Content Include="Content\images\onebit_19.png" />
+    <Content Include="Content\images\tooplate_body.jpg" />
+    <Content Include="Content\images\tooplate_divider.png" />
+    <Content Include="Content\images\tooplate_footer.png" />
+    <Content Include="Content\images\tooplate_header.png" />
+    <Content Include="Content\images\tooplate_header1.png" />
+    <Content Include="Content\images\tooplate_image_01.jpg" />
+    <Content Include="Content\images\tooplate_image_02.jpg" />
+    <Content Include="Content\images\tooplate_image_03.jpg" />
+    <Content Include="Content\images\tooplate_image_06.jpg" />
+    <Content Include="Content\images\tooplate_image_07.jpg" />
+    <Content Include="Content\images\tooplate_image_08.jpg" />
+    <Content Include="Content\images\tooplate_learn_here_btn.png" />
+    <Content Include="Content\images\tooplate_list.png" />
+    <Content Include="Content\images\tooplate_logo.png" />
+    <Content Include="Content\images\tooplate_main.png" />
+    <Content Include="Content\images\tooplate_main_top.png" />
+    <Content Include="Content\images\tooplate_menu.png" />
+    <Content Include="Content\images\tooplate_middle.png" />
+    <Content Include="Content\jquery.lightbox-0.5.css" />
+    <Content Include="Content\nivo-slider.css" />
+    <Content Include="Content\Site.css" />
+    <Content Include="Content\tooplate_style.css" />
+    <Content Include="Cases.aspx" />
+    <Content Include="favicon.ico" />
+    <Content Include="fonts\glyphicons-halflings-regular.svg" />
+    <Content Include="Global.asax" />
+    <Content Include="fonts\glyphicons-halflings-regular.woff" />
+    <Content Include="fonts\glyphicons-halflings-regular.ttf" />
+    <Content Include="fonts\glyphicons-halflings-regular.eot" />
+    <Content Include="ApplicationInsights.config">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="bin\ApplicationInsights.config" />
+    <Content Include="bin\roslyn\csc.exe.config" />
+    <Content Include="bin\roslyn\csc.rsp" />
+    <Content Include="bin\roslyn\csi.exe.config" />
+    <Content Include="bin\roslyn\csi.rsp" />
+    <Content Include="bin\roslyn\Microsoft.CSharp.Core.targets" />
+    <Content Include="bin\roslyn\Microsoft.VisualBasic.Core.targets" />
+    <Content Include="bin\roslyn\vbc.exe.config" />
+    <Content Include="bin\roslyn\vbc.rsp" />
+    <Content Include="bin\roslyn\VBCSCompiler.exe.config" />
+    <Content Include="iom.csproj" />
+    <Content Include="iom.csproj.user" />
+    <Content Include="iom.Publish.xml" />
+    <Content Include="bin\keepDLL\iom.dll.config" />
+    <Content Include="bin\iom.dll.config" />
+    <None Include="bin\Web.dll.config" />
+    <Content Include="incimages\actionsarrowrightdoubleicon.png" />
+    <Content Include="incimages\alarmforwardicon.png" />
+    <Content Include="incimages\buttonhelpicon.png" />
+    <Content Include="incimages\faqicon.png" />
+    <Content Include="incimages\frustration1.jpg" />
+    <Content Include="incimages\frustrationok.jpg" />
+    <Content Include="incimages\gembarrassment.gif" />
+    <Content Include="incimages\go_next_icon.png" />
+    <Content Include="incimages\helpicon.png" />
+    <Content Include="incimages\work_in_progress.png" />
+    <Content Include="incwbs.asmx" />
+    <Content Include="jquery\external\jquery\jquery.js" />
+    <Content Include="jquery\images\ui-bg_flat_0_aaaaaa_40x100.png" />
+    <Content Include="jquery\images\ui-bg_flat_0_eeeeee_40x100.png" />
+    <Content Include="jquery\images\ui-bg_flat_55_ffffff_40x100.png" />
+    <Content Include="jquery\images\ui-bg_flat_75_ffffff_40x100.png" />
+    <Content Include="jquery\images\ui-bg_glass_65_ffffff_1x400.png" />
+    <Content Include="jquery\images\ui-bg_highlight-soft_100_f6f6f6_1x100.png" />
+    <Content Include="jquery\images\ui-bg_highlight-soft_25_0073ea_1x100.png" />
+    <Content Include="jquery\images\ui-bg_highlight-soft_50_dddddd_1x100.png" />
+    <Content Include="jquery\images\ui-icons_0073ea_256x240.png" />
+    <Content Include="jquery\images\ui-icons_454545_256x240.png" />
+    <Content Include="jquery\images\ui-icons_666666_256x240.png" />
+    <Content Include="jquery\images\ui-icons_ff0084_256x240.png" />
+    <Content Include="jquery\images\ui-icons_ffffff_256x240.png" />
+    <Content Include="jquery\jquery-ui.css" />
+    <Content Include="jquery\jquery-ui.js" />
+    <Content Include="jsinc\inc.js" />
+    <Content Include="jsinc\map.js" />
+    <Content Include="mapicons\mapmarkermarkerinsideazureicon.png" />
+    <Content Include="mapicons\mapmarkermarkerinsidechartreuseicon.png" />
+    <Content Include="mapicons\mapmarkermarkerinsidepinkicon.png" />
+    <Content Include="mapicons\mapmarkermarkeroutsideazureicon.png" />
+    <Content Include="mapicons\mapmarkermarkeroutsidechartreuseicon.png" />
+    <Content Include="mapicons\mapmarkermarkeroutsidepinkicon.png" />
+    <Content Include="misc\error.aspx" />
+    <Content Include="obj\Debug\DesignTimeResolveAssemblyReferences.cache" />
+    <Content Include="obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache" />
+    <Content Include="obj\Debug\iom.csproj.FileListAbsolute.txt" />
+    <Content Include="obj\Debug\iom.dll" />
+    <Content Include="obj\Debug\iom.pdb" />
+    <Content Include="obj\Debug\TempPE\crystal.assistance.cs.dll" />
+    <Content Include="obj\Debug\TempPE\crystal.assistance1.cs.dll" />
+    <Content Include="obj\Debug\TempPE\crystal.assistprvdstrct.cs.dll" />
+    <Content Include="obj\Debug\TempPE\crystal.assistprvdstrct1.cs.dll" />
+    <Content Include="obj\Debug\TempPE\crystal.cases.cs.dll" />
+    <Content Include="obj\Debug\TempPE\crystal.cases1.cs.dll" />
+    <Content Include="obj\Debug\TempPE\crystal.cases_district.cs.dll" />
+    <Content Include="obj\Debug\TempPE\crystal.cases_district1.cs.dll" />
+    <Content Include="obj\Debug\TempPE\crystal.cases_province1.cs.dll" />
+    <Content Include="obj\Debug\TempPE\crystal.cases_summary.cs.dll" />
+    <Content Include="obj\Debug\TempPE\crystal.cases_summary1.cs.dll" />
+    <Content Include="obj\Debug\TempPE\crystal.case_groups.cs.dll" />
+    <Content Include="obj\Debug\TempPE\crystal.case_groups1.cs.dll" />
+    <Content Include="obj\Debug\TempPE\crystal.cauprov.cs.dll" />
+    <Content Include="obj\Debug\TempPE\crystal.cauprov1.cs.dll" />
+    <Content Include="obj\Debug\TempPE\crystal.CrystalReport1.cs.dll" />
+    <Content Include="obj\Debug\TempPE\crystal.cssmmryprvdstrct.cs.dll" />
+    <Content Include="obj\Debug\TempPE\crystal.cssmmryprvdstrct1.cs.dll" />
+    <Content Include="obj\Debug\TempPE\crystal.donorprojects.cs.dll" />
+    <Content Include="obj\Debug\TempPE\crystal.donorprojects1.cs.dll" />
+    <Content Include="obj\Debug\TempPE\crystal.incmon.cs.dll" />
+    <Content Include="obj\Debug\TempPE\crystal.incmon1.cs.dll" />
+    <Content Include="obj\Debug\TempPE\crystal.incprov.cs.dll" />
+    <Content Include="obj\Debug\TempPE\crystal.incprov1.cs.dll" />
+    <Content Include="obj\Debug\TempPE\crystal.incqtr.cs.dll" />
+    <Content Include="obj\Debug\TempPE\crystal.incqtr1.cs.dll" />
+    <Content Include="obj\Debug\TempPE\crystal.peprov.cs.dll" />
+    <Content Include="obj\Debug\TempPE\crystal.peprov1.cs.dll" />
+    <Content Include="obj\Debug\TempPE\crystal.registered.cs.dll" />
+    <Content Include="obj\Debug\TempPE\crystal.registered1.cs.dll" />
+    <Content Include="obj\Debug\TempPE\IncDataClasses.designer.cs.dll" />
+    <Content Include="obj\Debug\Web.csproj.CopyComplete" />
+    <Content Include="obj\Debug\Web.csproj.CoreCompileInputs.cache" />
+    <Content Include="obj\Debug\Web.csprojResolveAssemblyReference.cache" />
+    <Content Include="incimages\Web.config" />
+    <Content Include="jquery\Web.config" />
+    <Content Include="jsinc\Web.config" />
+    <Content Include="mapicons\Web.config" />
+    <Content Include="misc\Web.config" />
+    <Content Include="IncDataClasses.dbml" />
+    <Content Include="obj\Debug\iom.csproj.CopyComplete" />
+    <Content Include="obj\Debug\iom.csproj.CoreCompileInputs.cache" />
+    <Content Include="obj\Debug\iom.csprojAssemblyReference.cache" />
+    <None Include="Properties\PublishProfiles\mypublish.pubxml" />
+    <None Include="Properties\PublishProfiles\Profile1.pubxml" />
+    <None Include="Properties\Settings.settings" />
+    <None Include="Scripts\jquery-1.10.2.intellisense.js" />
+    <Content Include="Default.aspx" />
+    <Content Include="Images\best_solution.png" />
+    <Content Include="Images\cap_bg.png" />
+    <Content Include="Images\gallery\image_01_l.jpg" />
+    <Content Include="Images\gallery\image_01_s.jpg" />
+    <Content Include="Images\gallery\image_02_l.jpg" />
+    <Content Include="Images\gallery\image_02_s.jpg" />
+    <Content Include="Images\gallery\image_03_l.jpg" />
+    <Content Include="Images\gallery\image_03_s.jpg" />
+    <Content Include="Images\gallery\image_04_l.jpg" />
+    <Content Include="Images\gallery\image_04_s.jpg" />
+    <Content Include="Images\gallery\image_05_l.jpg" />
+    <Content Include="Images\gallery\image_05_s.jpg" />
+    <Content Include="Images\gallery\image_06_l.jpg" />
+    <Content Include="Images\gallery\image_06_s.jpg" />
+    <Content Include="Images\lightbox-btn-close.gif" />
+    <Content Include="Images\map_big.jpg" />
+    <Content Include="Images\map_thumb.jpg" />
+    <Content Include="Images\more_btn.png" />
+    <Content Include="Images\onebit_08.png" />
+    <Content Include="Images\onebit_15.png" />
+    <Content Include="Images\onebit_16.png" />
+    <Content Include="Images\onebit_17.png" />
+    <Content Include="Images\onebit_18.png" />
+    <Content Include="Images\onebit_19.png" />
+    <Content Include="Images\tooplate_body.jpg" />
+    <Content Include="Images\tooplate_divider.png" />
+    <Content Include="Images\tooplate_footer.png" />
+    <Content Include="Images\tooplate_header.png" />
+    <Content Include="Images\tooplate_image_01.jpg" />
+    <Content Include="Images\tooplate_image_02.jpg" />
+    <Content Include="Images\tooplate_image_03.jpg" />
+    <Content Include="Images\tooplate_image_06.jpg" />
+    <Content Include="Images\tooplate_image_07.jpg" />
+    <Content Include="Images\tooplate_image_08.jpg" />
+    <Content Include="Images\tooplate_learn_here_btn.png" />
+    <Content Include="Images\tooplate_list.png" />
+    <Content Include="Images\tooplate_logo.png" />
+    <Content Include="Images\tooplate_main.png" />
+    <Content Include="Images\tooplate_main_top.png" />
+    <Content Include="Images\tooplate_menu.png" />
+    <Content Include="Images\tooplate_middle.png" />
+    <Content Include="Login.aspx" />
+    <Content Include="Logout.aspx" />
+    <Content Include="obj\Debug\Web.csproj.FileListAbsolute.txt" />
+    <Content Include="obj\Debug\Web.dll" />
+    <Content Include="obj\Debug\Web.pdb" />
+    <Content Include="Properties\PublishProfiles\mypublish.pubxml.user" />
+    <Content Include="Properties\PublishProfiles\Profile1.pubxml.user" />
+    <Content Include="referrals.aspx" />
+    <Content Include="Scripts\bootstrap.js" />
+    <Content Include="Scripts\bootstrap.min.js" />
+    <Content Include="Scripts\jquery-1.10.2.js" />
+    <Content Include="Scripts\jquery-1.10.2.min.js" />
+    <Content Include="Scripts\jquery-1.3.2.min.js" />
+    <None Include="Scripts\jquery-1.4.1-vsdoc.js" />
+    <Content Include="Scripts\jquery-1.4.1.js" />
+    <Content Include="Scripts\jquery-1.4.1.min.js" />
+    <Content Include="Scripts\jquery.blockUI.js" />
+    <Content Include="Scripts\jquery.js" />
+    <Content Include="Scripts\jquery.lightbox-0.5.js" />
+    <Content Include="Scripts\jquery.lightbox-0.5.min.js" />
+    <Content Include="Scripts\jquery.lightbox-0.5.pack.js" />
+    <Content Include="Scripts\jquery.nivo.slider.js" />
+    <Content Include="Scripts\modernizr-2.6.2.js" />
+    <Content Include="Scripts\respond.js" />
+    <Content Include="Scripts\respond.min.js" />
+    <Content Include="Scripts\WebForms\DetailsView.js" />
+    <Content Include="Scripts\WebForms\Focus.js" />
+    <Content Include="Scripts\WebForms\GridView.js" />
+    <Content Include="Scripts\WebForms\Menu.js" />
+    <Content Include="Scripts\WebForms\MenuStandards.js" />
+    <Content Include="Scripts\WebForms\MSAjax\MicrosoftAjax.js" />
+    <Content Include="Scripts\WebForms\MSAjax\MicrosoftAjaxApplicationServices.js" />
+    <Content Include="Scripts\WebForms\MSAjax\MicrosoftAjaxComponentModel.js" />
+    <Content Include="Scripts\WebForms\MSAjax\MicrosoftAjaxCore.js" />
+    <Content Include="Scripts\WebForms\MSAjax\MicrosoftAjaxGlobalization.js" />
+    <Content Include="Scripts\WebForms\MSAjax\MicrosoftAjaxHistory.js" />
+    <Content Include="Scripts\WebForms\MSAjax\MicrosoftAjaxNetwork.js" />
+    <Content Include="Scripts\WebForms\MSAjax\MicrosoftAjaxSerialization.js" />
+    <Content Include="Scripts\WebForms\MSAjax\MicrosoftAjaxTimer.js" />
+    <Content Include="Scripts\WebForms\MSAjax\MicrosoftAjaxWebForms.js" />
+    <Content Include="Scripts\WebForms\MSAjax\MicrosoftAjaxWebServices.js" />
+    <Content Include="Scripts\WebForms\SmartNav.js" />
+    <Content Include="Scripts\WebForms\TreeView.js" />
+    <Content Include="Scripts\WebForms\WebForms.js" />
+    <Content Include="Scripts\WebForms\WebParts.js" />
+    <Content Include="Scripts\WebForms\WebUIValidation.js" />
+    <Content Include="Site.Master" />
+    <Content Include="styles\dynamics.css" />
+    <Content Include="styles\site.css" />
+    <Content Include="Summery.aspx" />
+    <Content Include="UserInformation.aspx" />
+    <Content Include="ViewSwitcher.ascx" />
+    <Content Include="Web.config">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="Bundle.config" />
+    <Content Include="Site.Mobile.Master" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Admin.aspx.cs">
+      <DependentUpon>Admin.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin.aspx.designer.cs">
+      <DependentUpon>Admin.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ajaxops.cs" />
+    <Compile Include="App_Start\BundleConfig.cs" />
+    <Compile Include="About.aspx.cs">
+      <DependentUpon>About.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="About.aspx.designer.cs">
+      <DependentUpon>About.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="App_Start\RouteConfig.cs" />
+    <Compile Include="CreateExcelFile.cs" />
+    <Compile Include="CrystalDecisions\Web\CrystalReportViewer.cs" />
+    <Compile Include="crystal\assistance.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>assistance.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="crystal\assistance1.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="crystal\assistprvdstrct.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>assistprvdstrct.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="crystal\assistprvdstrct1.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="crystal\cases.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="crystal\cases1.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>cases.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="crystal\cases_district.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>cases_district.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="crystal\cases_district1.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="crystal\cases_summary.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>cases_summary.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="crystal\cases_summary1.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="crystal\case_groups.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>case_groups.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="crystal\case_groups1.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="crystal\cauprov.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="crystal\cauprov1.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>cauprov.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="crystal\cssmmryprvdstrct.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>cssmmryprvdstrct.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="crystal\cssmmryprvdstrct1.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="crystal\donorprojects.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="crystal\donorprojects1.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>donorprojects.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="crystal\incmon.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="crystal\incmon1.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>incmon.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="crystal\incprov.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="crystal\incprov1.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>incprov.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="crystal\incqtr.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="crystal\incqtr1.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>incqtr.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="crystal\peprov.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="crystal\peprov1.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>peprov.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="crystal\registered.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>registered.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="crystal\registered1.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="DatabaseItems.cs" />
+    <Compile Include="Contact.aspx.cs">
+      <DependentUpon>Contact.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Contact.aspx.designer.cs">
+      <DependentUpon>Contact.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="DBManagement.cs" />
+    <Compile Include="Cases.aspx.cs">
+      <DependentUpon>Cases.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Cases.aspx.designer.cs">
+      <DependentUpon>Cases.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Global.asax.cs">
+      <DependentUpon>Global.asax</DependentUpon>
+    </Compile>
+    <Compile Include="Default.aspx.cs">
+      <DependentUpon>Default.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Default.aspx.designer.cs">
+      <DependentUpon>Default.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="inc.cs" />
+    <Compile Include="inc2.cs" />
+    <Compile Include="IncAppHandler.cs" />
+    <Compile Include="IncDataClasses.designer.cs" />
+    <Compile Include="incwbs.asmx.cs">
+      <DependentUpon>incwbs.asmx</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="iomclasses.cs">
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Login.aspx.cs">
+      <DependentUpon>Login.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Login.aspx.designer.cs">
+      <DependentUpon>Login.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Logout.aspx.cs">
+      <DependentUpon>Logout.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Logout.aspx.designer.cs">
+      <DependentUpon>Logout.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="misc\error.aspx.cs">
+      <DependentUpon>error.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="misc\error.aspx.designer.cs">
+      <DependentUpon>error.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="obj\Debug\TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" />
+    <Compile Include="obj\Debug\TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" />
+    <Compile Include="obj\Debug\TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Settings.Designer.cs" />
+    <Compile Include="referrals.aspx.cs">
+      <DependentUpon>referrals.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="referrals.aspx.designer.cs">
+      <DependentUpon>referrals.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Site.Master.cs">
+      <DependentUpon>Site.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Site.Master.designer.cs">
+      <DependentUpon>Site.Master</DependentUpon>
+    </Compile>
+    <Compile Include="Site.Mobile.Master.cs">
+      <DependentUpon>Site.Mobile.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Site.Mobile.Master.designer.cs">
+      <DependentUpon>Site.Mobile.Master</DependentUpon>
+    </Compile>
+    <Compile Include="Summery.aspx.cs">
+      <DependentUpon>Summery.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Summery.aspx.designer.cs">
+      <DependentUpon>Summery.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="UserInformation.aspx.cs">
+      <DependentUpon>UserInformation.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UserInformation.aspx.designer.cs">
+      <DependentUpon>UserInformation.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ViewSwitcher.ascx.cs">
+      <DependentUpon>ViewSwitcher.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ViewSwitcher.ascx.designer.cs">
+      <DependentUpon>ViewSwitcher.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="VwNotification.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="App_Data\" />
+    <Folder Include="bin\ar\" />
+    <Folder Include="bin\cs\" />
+    <Folder Include="bin\de\" />
+    <Folder Include="bin\es\" />
+    <Folder Include="bin\fr\" />
+    <Folder Include="bin\he\" />
+    <Folder Include="bin\hi\" />
+    <Folder Include="bin\it\" />
+    <Folder Include="bin\ja\" />
+    <Folder Include="bin\ko\" />
+    <Folder Include="bin\nl\" />
+    <Folder Include="bin\pt\" />
+    <Folder Include="bin\ru\" />
+    <Folder Include="bin\tr-TR\" />
+    <Folder Include="bin\zh-CHS\" />
+    <Folder Include="bin\zh-CHT\" />
+    <Folder Include="obj\Debug\Package\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+    <Content Include="Scripts\jquery-1.10.2.min.map" />
+    <Content Include="styles\Web.config" />
+    <None Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+    <None Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="crystal\assistance.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>assistance.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="crystal\assistprvdstrct.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>assistprvdstrct.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="crystal\cases.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>cases1.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="crystal\cases_district.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>cases_district.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="crystal\cases_summary.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>cases_summary.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="crystal\case_groups.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>case_groups.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="crystal\cauprov.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>cauprov1.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="crystal\cssmmryprvdstrct.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>cssmmryprvdstrct.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="crystal\donorprojects.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>donorprojects1.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="crystal\incmon.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>incmon1.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="crystal\incprov.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>incprov1.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="crystal\incqtr.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>incqtr1.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="crystal\peprov.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>peprov1.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="crystal\registered.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>registered.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IncDataClasses.dbml.layout" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>True</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>51023</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>http://localhost:51023/</IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\Microsoft.Net.Compilers.2.1.0\build\Microsoft.Net.Compilers.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Microsoft.Net.Compilers.2.1.0\build\Microsoft.Net.Compilers.props'))" />
+    <Error Condition="!Exists('..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.5\build\net45\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.5\build\net45\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props'))" />
+  </Target>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

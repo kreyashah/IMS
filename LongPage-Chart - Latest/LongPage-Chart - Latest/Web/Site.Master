@@ -1,0 +1,87 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="Web.SiteMaster" %>
+
+<!DOCTYPE html>
+
+<html lang="en">
+<head runat="server">
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Nation Disaster Center</title>
+
+    <asp:PlaceHolder runat="server">
+        <%: Scripts.Render("~/bundles/modernizr") %>
+    </asp:PlaceHolder>
+
+    <webopt:bundlereference runat="server" path="~/Content/css" />
+    <link href="~/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+
+    <style type="text/css">
+        .auto-style1 {
+            background-color: #0066CC;
+        }
+    </style>
+
+</head>
+<body>
+    <form runat="server">
+        <asp:ScriptManager runat="server">
+            <Scripts>
+                <%--To learn more about bundling scripts in ScriptManager see https://go.microsoft.com/fwlink/?LinkID=301884 --%>
+                <%--Framework Scripts--%>
+                <asp:ScriptReference Name="MsAjaxBundle" />
+                <asp:ScriptReference Name="jquery" />
+                <asp:ScriptReference Name="bootstrap" />
+                <asp:ScriptReference Name="respond" />
+                <asp:ScriptReference Name="WebForms.js" Assembly="System.Web" Path="~/Scripts/WebForms/WebForms.js" />
+                <asp:ScriptReference Name="WebUIValidation.js" Assembly="System.Web" Path="~/Scripts/WebForms/WebUIValidation.js" />
+                <asp:ScriptReference Name="MenuStandards.js" Assembly="System.Web" Path="~/Scripts/WebForms/MenuStandards.js" />
+                <asp:ScriptReference Name="GridView.js" Assembly="System.Web" Path="~/Scripts/WebForms/GridView.js" />
+                <asp:ScriptReference Name="DetailsView.js" Assembly="System.Web" Path="~/Scripts/WebForms/DetailsView.js" />
+                <asp:ScriptReference Name="TreeView.js" Assembly="System.Web" Path="~/Scripts/WebForms/TreeView.js" />
+                <asp:ScriptReference Name="WebParts.js" Assembly="System.Web" Path="~/Scripts/WebForms/WebParts.js" />
+                <asp:ScriptReference Name="Focus.js" Assembly="System.Web" Path="~/Scripts/WebForms/Focus.js" />
+                <asp:ScriptReference Name="WebFormsBundle" />
+                <%--Site Scripts--%>
+            </Scripts>
+        </asp:ScriptManager>
+
+        
+        <div id="tooplate_wrapper">
+	        <div id="tooplate_header">
+                <div id="site_title"><h1><a href="#">National Disaster Centre</a></h1></div>
+                <div id="user_info"><i class="fa fa-users"></i><a id="aUserInformation" href="~/UserInformation" runat="server"></a></div>
+                <div id="tooplate_menu" class="auto-style1">
+                    <ul>
+                        <li><a href="~/Default" id="aHomeLink" runat="server">Home</a></li>
+                        <li><a href="~/Cases"   id="aCaseLink" runat="server">Cases</a></li>
+                        <li><a href="#" id="aReferralsLink" runat="server">Referrals</a></li>
+                        <li><a href="#" id="aDonorLink" runat="server">Donors</a></li>
+                        <li><a href="~/Summery" id="aSummeryLink" runat="server">Summary Reports</a></li>
+                        <li><a href="#" id="aSurveyAnalysisLink" runat="server">Survey Analysis</a></li>
+                        <li><a href="#" id="aquestionnaireLink" runat="server">Questionnaires</a></li>
+                        <li><a href="#" id="aSurveyLink" runat="server">Surveys</a></li>
+                        <li><a href="~/About"   id="aAboutLink" runat ="server">About</a></li>
+                        <li><a href="~/Contact" id="aContactLink" runat="server" >Dashboard</a></li>
+                        <li><a href="~/Logout" id="a1" runat="server" class="last">Logout</a></li>
+
+                        
+                    </ul>    	
+                </div> <!-- end of tooplate_menu -->
+    
+	        </div> <!-- end of forever header -->
+    
+            <div id="tooplate_main">
+                
+                <asp:ContentPlaceHolder ID="MainContent" runat="server">
+                </asp:ContentPlaceHolder>
+            </div> <!-- end of main -->
+    
+            <div id="tooplate_footer">
+    	        Copyright © 2020 <a href="#">National Disaster Center</a>
+	        </div> <!-- end of footer -->
+    
+        </div> <!-- end of wrapper -->
+    </form>
+</body>
+</html>
+

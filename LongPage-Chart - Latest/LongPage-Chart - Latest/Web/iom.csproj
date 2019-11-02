@@ -1,0 +1,590 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{01D23596-3C1B-4968-9A98-C1C3564B5AD2}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>iom</RootNamespace>
+    <AssemblyName>iom</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <UseIISExpress>false</UseIISExpress>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>4.0</OldToolsVersion>
+    <IISExpressSSLPort />
+    <IISExpressAnonymousAuthentication />
+    <IISExpressWindowsAuthentication />
+    <IISExpressUseClassicPipelineMode />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Web, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+    </Reference>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Data.Linq" />
+    <Reference Include="System.Web.DataVisualization" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="account\changepassword.aspx" />
+    <Content Include="account\login.aspx" />
+    <Content Include="account\requestpasswordchange.aspx" />
+    <Content Include="aquestion.aspx" />
+    <Content Include="assistance.aspx" />
+    <Content Include="case.aspx" />
+    <Content Include="casesummary.aspx" />
+    <Content Include="contactus.aspx" />
+    <Content Include="donor.aspx" />
+    <Content Include="helpsys.aspx" />
+    <Content Include="incimages\buttonhelpicon.png" />
+    <Content Include="incimages\faqicon.png" />
+    <Content Include="incimages\go_next_icon.png" />
+    <Content Include="incimages\actionsarrowrightdoubleicon.png" />
+    <Content Include="incimages\alarmforwardicon.png" />
+    <Content Include="incimages\helpicon.png" />
+    <Content Include="incwbs.asmx" />
+    <Content Include="jquery\external\jquery\jquery.js" />
+    <Content Include="jquery\images\ui-bg_flat_0_aaaaaa_40x100.png" />
+    <Content Include="jquery\images\ui-bg_flat_0_eeeeee_40x100.png" />
+    <Content Include="jquery\images\ui-bg_flat_55_ffffff_40x100.png" />
+    <Content Include="jquery\images\ui-bg_flat_75_ffffff_40x100.png" />
+    <Content Include="jquery\images\ui-bg_glass_65_ffffff_1x400.png" />
+    <Content Include="jquery\images\ui-bg_highlight-soft_100_f6f6f6_1x100.png" />
+    <Content Include="jquery\images\ui-bg_highlight-soft_25_0073ea_1x100.png" />
+    <Content Include="jquery\images\ui-bg_highlight-soft_50_dddddd_1x100.png" />
+    <Content Include="jquery\images\ui-icons_0073ea_256x240.png" />
+    <Content Include="jquery\images\ui-icons_454545_256x240.png" />
+    <Content Include="jquery\images\ui-icons_666666_256x240.png" />
+    <Content Include="jquery\images\ui-icons_ff0084_256x240.png" />
+    <Content Include="jquery\images\ui-icons_ffffff_256x240.png" />
+    <Content Include="jquery\jquery-ui.css" />
+    <Content Include="jquery\jquery-ui.js" />
+    <Content Include="jsinc\map.js" />
+    <Content Include="mapicons\mapmarkermarkerinsideazureicon.png" />
+    <Content Include="mapicons\mapmarkermarkerinsidechartreuseicon.png" />
+    <Content Include="mapicons\mapmarkermarkerinsidepinkicon.png" />
+    <Content Include="mapicons\mapmarkermarkeroutsideazureicon.png" />
+    <Content Include="mapicons\mapmarkermarkeroutsidechartreuseicon.png" />
+    <Content Include="mapicons\mapmarkermarkeroutsidepinkicon.png" />
+    <Content Include="misc\error.aspx" />
+    <Content Include="incident.aspx" />
+    <Content Include="incimages\frustration1.jpg" />
+    <Content Include="incimages\frustrationok.jpg" />
+    <Content Include="incimages\gembarrassment.gif" />
+    <Content Include="incimages\work_in_progress.png" />
+    <Content Include="jsinc\inc.js" />
+    <Content Include="openmap.aspx" />
+    <Content Include="perm.aspx" />
+    <Content Include="previewq.aspx" />
+    <Content Include="project.aspx" />
+    <Content Include="prompt.aspx" />
+    <Content Include="qckedit.aspx" />
+    <Content Include="qsections.aspx" />
+    <Content Include="questionnaire.aspx" />
+    <Content Include="questions.aspx" />
+    <Content Include="referrals.aspx" />
+    <Content Include="report.aspx" />
+    <Content Include="scratch.aspx" />
+    <Content Include="selectreport.aspx" />
+    <Content Include="srchcase.aspx" />
+    <Content Include="srchindividual.aspx" />
+    <Content Include="srchsurvey.aspx" />
+    <Content Include="styles\dynamics.css" />
+    <Content Include="styles\site.css" />
+    <Content Include="default.aspx" />
+    <Content Include="Global.asax" />
+    <Content Include="scripts\jquery-1.4.1-vsdoc.js" />
+    <Content Include="scripts\jquery-1.4.1.js" />
+    <Content Include="scripts\jquery-1.4.1.min.js" />
+    <Content Include="survey.aspx" />
+    <Content Include="surveyanalysis.aspx" />
+    <Content Include="user.aspx" />
+    <Content Include="viewrpt.aspx" />
+    <Content Include="Web.config">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+    <Content Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+    <Content Include="wip.aspx" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="account\changepassword.aspx.cs">
+      <DependentUpon>changepassword.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="account\changepassword.aspx.designer.cs">
+      <DependentUpon>changepassword.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="account\login.aspx.cs">
+      <DependentUpon>login.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="account\login.aspx.designer.cs">
+      <DependentUpon>login.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="account\requestpasswordchange.aspx.cs">
+      <DependentUpon>requestpasswordchange.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="account\requestpasswordchange.aspx.designer.cs">
+      <DependentUpon>requestpasswordchange.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ajaxops.cs" />
+    <Compile Include="aquestion.aspx.cs">
+      <DependentUpon>aquestion.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="aquestion.aspx.designer.cs">
+      <DependentUpon>aquestion.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="assistance.aspx.cs">
+      <DependentUpon>assistance.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="assistance.aspx.designer.cs">
+      <DependentUpon>assistance.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="base.Master.cs">
+      <DependentUpon>base.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="base.Master.designer.cs">
+      <DependentUpon>base.Master</DependentUpon>
+    </Compile>
+    <Compile Include="case.aspx.cs">
+      <DependentUpon>case.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="case.aspx.designer.cs">
+      <DependentUpon>case.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="casesummary.aspx.cs">
+      <DependentUpon>casesummary.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="casesummary.aspx.designer.cs">
+      <DependentUpon>casesummary.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="contactus.aspx.cs">
+      <DependentUpon>contactus.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="contactus.aspx.designer.cs">
+      <DependentUpon>contactus.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="crystal\assistance1.cs">
+      <DependentUpon>assistance.rpt</DependentUpon>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+    </Compile>
+    <Compile Include="crystal\cases.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>cases.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="crystal\case_groups1.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>case_groups.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="crystal\cauprov.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>cauprov.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="crystal\donorprojects.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>donorprojects.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="crystal\incmon.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>incmon.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="crystal\incqtr.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>incqtr.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="crystal\peprov.cs">
+      <DependentUpon>peprov.rpt</DependentUpon>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+    </Compile>
+    <Compile Include="crystal\registered1.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>registered.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="default.aspx.cs">
+      <DependentUpon>default.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="default.aspx.designer.cs">
+      <DependentUpon>default.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="donor.aspx.cs">
+      <DependentUpon>donor.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="donor.aspx.designer.cs">
+      <DependentUpon>donor.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="helpsys.aspx.cs">
+      <DependentUpon>helpsys.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="helpsys.aspx.designer.cs">
+      <DependentUpon>helpsys.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="inc2.cs" />
+    <Compile Include="incwbs.asmx.cs">
+      <DependentUpon>incwbs.asmx</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="misc\error.aspx.cs">
+      <DependentUpon>error.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="misc\error.aspx.designer.cs">
+      <DependentUpon>error.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Global.asax.cs">
+      <DependentUpon>Global.asax</DependentUpon>
+    </Compile>
+    <Compile Include="inc.cs" />
+    <Compile Include="IncDataClasses.designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>IncDataClasses.dbml</DependentUpon>
+    </Compile>
+    <Compile Include="incident.aspx.cs">
+      <DependentUpon>incident.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="incident.aspx.designer.cs">
+      <DependentUpon>incident.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="iomclasses.cs">
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="openmap.aspx.cs">
+      <DependentUpon>openmap.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="openmap.aspx.designer.cs">
+      <DependentUpon>openmap.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="perm.aspx.cs">
+      <DependentUpon>perm.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="perm.aspx.designer.cs">
+      <DependentUpon>perm.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="previewq.aspx.cs">
+      <DependentUpon>previewq.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="previewq.aspx.designer.cs">
+      <DependentUpon>previewq.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="project.aspx.cs">
+      <DependentUpon>project.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="project.aspx.designer.cs">
+      <DependentUpon>project.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="prompt.aspx.cs">
+      <DependentUpon>prompt.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="prompt.aspx.designer.cs">
+      <DependentUpon>prompt.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <DependentUpon>Settings.settings</DependentUpon>
+    </Compile>
+    <Compile Include="qckedit.aspx.cs">
+      <DependentUpon>qckedit.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="qckedit.aspx.designer.cs">
+      <DependentUpon>qckedit.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="qsections.aspx.cs">
+      <DependentUpon>qsections.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="qsections.aspx.designer.cs">
+      <DependentUpon>qsections.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="questionnaire.aspx.cs">
+      <DependentUpon>questionnaire.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="questionnaire.aspx.designer.cs">
+      <DependentUpon>questionnaire.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="questions.aspx.cs">
+      <DependentUpon>questions.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="questions.aspx.designer.cs">
+      <DependentUpon>questions.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="referrals.aspx.cs">
+      <DependentUpon>referrals.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="referrals.aspx.designer.cs">
+      <DependentUpon>referrals.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="report.aspx.cs">
+      <DependentUpon>report.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="report.aspx.designer.cs">
+      <DependentUpon>report.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="scratch.aspx.cs">
+      <DependentUpon>scratch.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="scratch.aspx.designer.cs">
+      <DependentUpon>scratch.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="selectreport.aspx.cs">
+      <DependentUpon>selectreport.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="selectreport.aspx.designer.cs">
+      <DependentUpon>selectreport.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="srchcase.aspx.cs">
+      <DependentUpon>srchcase.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="srchcase.aspx.designer.cs">
+      <DependentUpon>srchcase.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="srchindividual.aspx.cs">
+      <DependentUpon>srchindividual.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="srchindividual.aspx.designer.cs">
+      <DependentUpon>srchindividual.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="srchsurvey.aspx.cs">
+      <DependentUpon>srchsurvey.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="srchsurvey.aspx.designer.cs">
+      <DependentUpon>srchsurvey.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="survey.aspx.cs">
+      <DependentUpon>survey.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="survey.aspx.designer.cs">
+      <DependentUpon>survey.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="surveyanalysis.aspx.cs">
+      <DependentUpon>surveyanalysis.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="surveyanalysis.aspx.designer.cs">
+      <DependentUpon>surveyanalysis.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="user.aspx.cs">
+      <DependentUpon>user.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="user.aspx.designer.cs">
+      <DependentUpon>user.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="viewrpt.aspx.cs">
+      <DependentUpon>viewrpt.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="viewrpt.aspx.designer.cs">
+      <DependentUpon>viewrpt.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="wip.aspx.cs">
+      <DependentUpon>wip.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="wip.aspx.designer.cs">
+      <DependentUpon>wip.aspx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="App_Data\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="account\Web.config">
+      <SubType>Designer</SubType>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="crystal\assistance.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>assistance1.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="crystal\cases.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>cases.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="crystal\case_groups.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>case_groups1.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="crystal\cauprov.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>cauprov.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="crystal\donorprojects.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>donorprojects.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="crystal\incmon.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>incmon.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="crystal\incqtr.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>incqtr.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="crystal\peprov.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>peprov.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="crystal\registered.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>registered1.cs</LastGenOutput>
+    </EmbeddedResource>
+    <Content Include="base.Master" />
+    <None Include="IncDataClasses.dbml.layout">
+      <DependentUpon>IncDataClasses.dbml</DependentUpon>
+    </None>
+    <Content Include="styles\Web.config" />
+    <Content Include="jsinc\Web.config" />
+    <Content Include="mapicons\Web.config" />
+    <Content Include="misc\Web.config" />
+    <Content Include="incimages\Web.config" />
+    <Content Include="jquery\Web.config">
+      <SubType>Designer</SubType>
+    </Content>
+    <None Include="Properties\PublishProfiles\mypublish.pubxml" />
+    <None Include="Properties\PublishProfiles\Profile1.pubxml" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{3259AA49-8AA1-44D3-9025-A0B520596A8C}" />
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="IncDataClasses.dbml">
+      <Generator>MSLinqToSQLGenerator</Generator>
+      <LastGenOutput>IncDataClasses.designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>False</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>58418</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>
+          </IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

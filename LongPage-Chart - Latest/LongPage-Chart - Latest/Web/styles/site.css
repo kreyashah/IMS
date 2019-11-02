@@ -1,0 +1,237 @@
+﻿body { font-family: Verdana, Geneva, sans-serif; margin: 1px 1px 1px 1px; font-size: 7.8pt; }
+.lgnfields, .txtfields, .mdtxtfields, .mdhftxtflds, .lngtxtfields, .smltxtflds, .othrtxtflds, .tnytxtflds, .drpdwn, .smldrpdwn { font-size: 8pt; }
+.mddrpdwn, .hftxtflds, .drpdwnw, .adrpdwn, .etnytxtflds, .ssmltxtflds, .bigtxt, .atxtbx { font-size: 8pt; }
+.lgnfields, .txtfields, .mdtxtfields, .mdhftxtflds, .hftxtflds, .tnytxtflds, .bigtxt { padding-top: 3px; padding-bottom: 3px; padding-left: 2px; }
+.ssmltxtflds, .atxtbx { padding-left: 2px; }
+/****************************************************************************************************************************/
+#container { width: 1100px; margin-left: auto; margin-right: auto; margin-top: 5px }
+/****************************************************************************************************************************/
+.topbar, .menubarhght, .anytb, .anyblk, .mdtb, .cntxtbox, .pnlmsg, .pnlerr, .pnldv, .cntntdv { width: 100%; }
+.anytbmgn, .usrprmstbl, .prmstbl, .cntxtboxbtm, .inptblk, .bttnbx, .tbcs, .incbxs, .spcdblk, .usrtb { width: 100%; }
+.pnlinpt, .ablk { width: 100%; }
+.pnlinpt { margin-top: 10px; }
+/****************************************************************************************************************************/
+.nobtmbrdr { width: 100%; padding-top: 6px; }
+.anytbmgn { margin-top: 20px; }
+.mdtb { margin-top: 25px; }
+.cntntdv { border: 1px solid #F0F0F0; }
+/****************************************************************************************************************************/
+.cntxtbox, .cntxtboxbtm { border-bottom: 1px solid #F0F0F0; }
+.cntxtboxbtm { margin-bottom: 25px; }
+/****************************************************************************************************************************/
+.menubar { margin-top: 10px; text-align: center; background-color: #0066CC }
+.mnubarlst { margin-left: auto; margin-right: auto; margin-top: 0px; margin-bottom: 0px; padding: 0px }
+.mnuitmbx { padding: 10px 5px 9px 5px }
+.mnuitmbx:hover { background-color: #00CCFF }
+/****************************************************************************************************************************/
+.mnubarlblitem { color: #ffffff; font-weight: bold }
+.lnkdiff { color: #FF0000; }
+/****************************************************************************************************************************/
+a:link { text-decoration: none; }
+a:visited { text-decoration: none; }
+a:hover { text-decoration: underline; }
+a:active { text-decoration: none; }
+/****************************************************************************************************************************/
+#ttlbox { width: 499px; }
+/****************************************************************************************************************************/
+#lgnstatus { width: 499px; text-align: right; }
+/****************************************************************************************************************************/
+.applabel { font-family: "Times New Roman", Times, serif; font-size: 13px; font-weight: bolder; color: #0066CC; }
+/****************************************************************************************************************************/
+.mnulabel, .mnubarlblitem { font-family: "Times New Roman", Times, serif; }
+.mnubarlblitem { font-size: 13px; padding-right: 15px; padding-left: 15px; }
+.mnulabel { font-size: 10px; font-weight: bold; color: #FFFFFF; width: 60px; }
+/****************************************************************************************************************************/
+.buttons, .frmbttns, .nwbttns { border: 1px solid #101010; background-color: #181818; color: #FFFFFF; }
+.cntxtbttns, .cntxtbttnslst { border: 1px solid #FF0000; background-color: #FF0000; width: 60px; color: #FFFFFF; font-size: 9pt }
+.cntxtbttnslst { margin-right: 15px }
+.buttons, .frmbttns { width: 90px; }
+.redbuttons { width: 90px; color: #FFFFFF; background-color: #FF0000; border: 1px solid #FF0000 }
+.smlbttns { width: 50px; background-color: #181818; border: 1px solid #101010; color: #FFFFFF; }
+.nwbttns { padding-left: 2px; padding-right: 2px }
+/****************************************************************************************************************************/
+.txtfields, .mdtxtfields, .lgnfields, .lngtxtfields, .stcflds, .smltxtflds, .othrtxtflds, .tnytxtflds, .hftxtflds, .mdhftxtflds { border: 1px solid #E2E2E2; }
+.etnytxtflds, .bigtxt, .atxtbx { border: 1px solid #E2E2E2; }
+.txtfields, .othrtxtflds { width: 250px; }
+.mdtxtfields { width: 213px; }
+.mdhftxtflds { width: 103px; }
+.hftxtflds { width: 120px; }
+.smltxtflds { width: 160px; }
+.tnytxtflds { width: 100px; }
+.etnytxtflds { width: 83px; }
+.txtfields, .smltxtflds, .etnytxtflds { margin-top: 3px; }
+.ssmltxtflds { width: 60px; }
+.lngtxtfields { width: 300px; }
+.bigtxt { width: 550px; }
+.memoflds, .drpdwn, .smldrpdwn, .mddrpdwn, .drpdwnw, .adrpdwn { border: 1px solid #E2E2E2; }
+.drpdwn, .smldrpdwn, .mddrpdwn, .drpdwnw { padding-right: 2px; padding-top: 3px; padding-bottom: 3px; }
+.drpdwn { width: 253px; }
+.mddrpdwn { width: 214px; }
+.smldrpdwn { width: 119px; }
+.adrpdwn { padding-left: 5px; padding-right: 2px }
+/****************************************************************************************************************************/
+.pnldv { padding-top: 30px; padding-bottom: 30px; border: 1px solid #F0F0F0; }
+.lgncontainer { border-bottom: 1px solid #F0F0F0; width: 100%; padding-top: 50px; padding-bottom: 50px; }
+.cntxtlabel { width: 300px; text-align: center; background-color: #F0F0F0; font-weight: bold; padding-bottom: 3px; padding-top: 3px; }
+/****************************************************************************************************************************/
+.lgntbl { width: 500px; margin-left: auto; margin-right: auto; }
+.lgntbl tr td { padding-bottom: 6px; padding-top: 6px; text-align: left; }
+.lgnfields { width: 130px; }
+.hghlght, .hghlghtbld, .lblmsg, .lblerr, .bgerrlbl, .smlhghlght { color: #FF0000; }
+.hghlghtxt { font-weight: bold; font-size: 10px; }
+.hghlghtbld { font-weight: bold }
+/****************************************************************************************************************************/
+.pnlmsg { text-align: center; border-bottom: 1px solid #F0F0F0; padding-bottom: 10px; line-height: 150%; margin-bottom: 5px; margin-top: 10px; }
+.pnlerr { margin-top: 40px; text-align: center; padding-top: 50px; padding-bottom: 50px; }
+.lblerr, .lblmsg, .bgerrlbl { font-weight: bold; }
+.bgerrlbl { font-size: 11px; }
+/****************************************************************************************************************************/
+#tbusr tr td { padding-bottom: 5px; padding-top: 5px; }
+.anyblk tr { padding-bottom: 4px; margin-top: 4px; }
+.altrw { background-color: #F8F8F8; }
+.lghtalt { background-color: #FCFDFD; }
+/****************************************************************************************************************************/
+.dtgrd, .incbxs th { background-color: #99CCCC; border: 1px solid #99CCCC; color: #000000; font-weight: bold; text-align: center; }
+.dtcll { padding-bottom: 5px; padding-top: 5px; }
+.inptblk { padding-top: 6px; padding-bottom: 6px; }
+/****************************************************************************************************************************/
+.bttnbx { margin-top: 10px; border-bottom: 1px solid #F0F0F0; padding-bottom: 8px; }
+.frmbttns { margin-right: 15px; }
+.nvlnks { margin-left: 15px; font-weight: bold; }
+.sbmnulnks { margin-right: 13px; font-weight: bold; }
+.fldlbls { color: #0000FF; }
+/****************************************************************************************************************************/
+.usrprmstbl { margin-top: 5px; }
+.usrprmstbl tr td { padding-top: 6px; padding-bottom: 6px; }
+/****************************************************************************************************************************/
+.prvnxt { margin-right: 20px; color: #000000; font-weight: bold; }
+.indxlbl { margin-left: 15px; font-size: 10px; font-weight: bold; color: #FF0000; }
+/****************************************************************************************************************************/
+.rqpwd { margin-top: 30px; margin-bottom: 20px; width: 100%; }
+.rqpwd tr td { padding-top: 5px; padding-bottom: 5px; }
+.lngtxtfields { width: 250px; }
+/****************************************************************************************************************************/
+.bldn { font-weight: bold; }
+.incbxs { margin-top: 20px; }
+.incbxs tr td { text-align: left; vertical-align: top; }
+.chkbxcl { text-align: left; vertical-align: top; line-height: 150%; }
+.spcdblk { margin-top: 20px; margin-bottom: 10px; }
+.cmntblk { margin-top: 30px; width: 100%; margin-bottom: 25px; }
+/****************************************************************************************************************************/
+.wip { padding-top: 30px; padding-bottom: 30px; text-align: center; }
+.cntrindv { text-align: center; }
+#tbcsflds tr td, #tbcsflds3 tr td, #tbcscmnt tr td { padding-bottom: 6px; padding-top: 6px; text-align:left; vertical-align: top; }
+.anycl { text-align: left; vertical-align: top; }
+.anyclcntr { text-align: center; vertical-align: top; }
+.smlhghlght { font-size: 7.5pt; }
+/****************************************************************************************************************************/
+.anylst, .vtcllst, .hrzntlst { list-style-type: none; padding: 0; margin: 0; }
+.anylst li { display: inline; margin-right: 50px; }
+.hrzntlst li { display: inline; margin-right: 25px; }
+.vtcllst li { margin-top: 4px; margin-bottom: 4px; }
+.who { width: 100%; padding-bottom: 6px; padding-top: 6px; border: 1px solid #F0F0F0; margin-top: 20px; text-align: center; }
+.usrtb tr td { vertical-align: top; text-align: left; }
+/****************************************************************************************************************************/
+.tblcgttl { width: 100%; margin-top: 20px; }
+.cgttlrw { background-color: #009999; }
+.cgttlcl, .pgttlcl { text-align: left; padding-top: 3px; padding-bottom: 3px; }
+.cgttlcl { width: 600px; }
+.pgttlcl { width: 400px; }
+.cgttlbl { font-size: 12px; font-weight: bold; text-align: left; }
+.pgttlsvrty { width: 300px; text-align: left; }
+.cgttlbtn { text-align: right; }
+.hdclpsbtn { background-color: #FFFFFF; border: 1px solid #FFFFFF; width: 60px; }
+/****************************************************************************************************************************/
+.tbincbxs, .tbassist { width: 100%; border-bottom: 1px solid #F0F0F0; padding: 3px 3px 3px 3px; }
+.cgincttl { text-align: left; vertical-align: top; width: 290px; }
+.cginclbl { font-weight: bold; font-size: 10px; }
+.cgincchks, .cgcaschks { text-align: left; vertical-align: top; }
+.cgincchks { width: 370px; }
+/****************************************************************************************************************************/
+#tbindvtls tr td, #tbindvdtls tr td { vertical-align: top; text-align: left; padding-top: 3px; padding-bottom: 3px; }
+.pgrbtn { padding-right: 13px; }
+/****************************************************************************************************************************/
+.asstcgttlcl { width: 250px; text-align: left; vertical-align: top; }
+.asstchkbxcl { width: 550px; text-align: left; vertical-align: top; }
+.asstsvrty { text-align: left; vertical-align: top; }
+/****************************************************************************************************************************/
+.rptbdy { font-family: Times New Roman, Tahoma, Sans-Serif; font-size: 12px; margin-top: 2px; margin-left: 2px; }
+.rptcntnr { width: 1000px; }
+#rpttlcs tr td { padding: 4px 0px 4px 0px; text-align: left; vertical-align: top; }
+#rptdtlcs tr td, #rptdtlusr tr td { padding: 4px 0px 4px 0px; text-align: left; vertical-align: top; }
+.rptfrmcs { width: 100%; border-top: 1px solid #D0D0D0; border-top: 1px solid #D0D0D0; padding-top: 10px; }
+/****************************************************************************************************************************/
+.cntrdmsgpnl { text-align: center; padding-top: 20px; width: 100%; }
+.anytdpdng { padding-top: 3px; padding-bottom: 3px; }
+.tpspcng { margin-top: 35px; }
+.actvinc, .strnglbl { color: #FF0000; font-weight: bold; }
+.dtdrw { border-bottom: 1px dotted #D0D0D0; }
+/****************************************************************************************************************************/
+#tbmntrdtls tr td, #tbmntrcmnt tr td { text-align: left; vertical-align: top; padding-top: 3px; padding-bottom: 3px; }
+.redlnk { color: #FF0000; font-weight: bold; }
+/****************************************************************************************************************************/
+.mlstn { width: 100%; padding-top: 10px; padding-bottom: 5px; }
+.tpbtmbrdr { width: 100%; border-bottom: 1px solid #F0F0F0; border-top: 1px solid #F0F0F0; }
+.tpbtmbrdr { padding-top: 5px; padding-bottom: 5px; }
+/****************************************************************************************************************************/
+#tbcigitms tr td { width: 250px; padding-top: 4px; padding-bottom: 4px; }
+#tbcsgrpinc tr td { padding-top: 5px; padding-bottom: 5px; }
+.redfnt { color: #FF0000; }
+#tbciglbls tr td { padding-top: 5px; padding-bottom: 5px; }
+#tbaddgrp tr td, #tbcigdrpgrp tr td { padding-top: 5px; padding-bottom: 5px; }
+/****************************************************************************************************************************/
+#tbassitms tr td { padding-top: 5px; padding-bottom: 5px; }
+.pnlass { width: 100%; text-align: left; }
+.whtbld { color: White; font-weight: bold; }
+/****************************************************************************************************************************/
+.pgindxpnl { width: 100%; border-top: 1px solid #F0F0F0; margin-top: 10px; text-align: center; padding-top: 8px; padding-bottom: 5px; }
+.pgindxlbl { margin-right: 20px; margin-top: 3px; margin-bottom: 3px; }
+/****************************************************************************************************************************/
+#slrptbx { width: 100%; margin-top: 10px; }
+#slrptbx tr td { text-align: left; vertical-align: top; }
+/****************************************************************************************************************************/
+#fltrbymnth tr td { padding-top: 2px; padding-bottom: 2px; vertical-align: top; }
+.smmoncell { width: 62px; text-align: center; }
+.smmdtcell { width: 62px; }
+#smmrybymon { margin-top: 10px; }
+.smplhdr { background-color: #99CCCC; border: 1px solid #99CCCC; color: #000000; text-align: center; }
+.smmryalt { background-color: #F0F0F0; }
+/****************************************************************************************************************************/
+.nvmnu { font-weight: bold; font-size: 7.8pt; border: 1px solid #0000FF; padding-top: 3px; padding-bottom: 3px; }
+.nvmnu { padding-right: 2px; padding-left: 2px; background-color: #FFFFE0; color: #0000FF; }
+.blkwht { color: #FFFFFF; background-color: #0066CC; }
+/****************************************************************************************************************************/
+#srchindvtbl tr td { text-align: left; vertical-align: top; }
+/****************************************************************************************************************************/
+#mpfltr tr td { text-align:left; vertical-align: top; }
+/****************************************************************************************************************************/
+.tbedt { width: 100%; border-bottom: 2px dotted #F0F0F0; padding-top: 13px; padding-bottom: 13px; }
+.tbedt tr td { width: 366px; text-align: left; vertical-align: top; }
+/****************************************************************************************************************************/
+#tb_edt { height: 25px; background-color: #99CCCC; margin-top: 25px; width: 100%; }
+#tb_edt tr th { text-align: left; vertical-align: top; font-weight: bold; }
+/****************************************************************************************************************************/
+.qckedtcl { text-align: left; vertical-align: top; border-bottom: 2px dotted #000000; }
+.qckedtcl { padding-bottom: 10px; padding-top: 10px; }
+/****************************************************************************************************************************/
+.plntb { padding: 0px 0px 0px 0px; }
+.plntb tr th { font-weight: bold; padding-bottom: 10px; padding-top: 10px; }
+.plntb tr th, .plntb tr td { text-align: left; vertical-align: top; }
+/****************************************************************************************************************************/
+#cmprd tr td { text-align: left; vertical-align: top; padding-top: 10px; padding-bottom: 10px; }
+/****************************************************************************************************************************/
+#tbasst tr td, #tbasslbl tr td, #tprjct tr td, #tbdnr tr td { text-align: left; vertical-align: top; }
+#tasshdr tr th { text-align: center; }
+#tprjct tr td, #tprjct tr th, #tbdnr tr td, #tbasslbl tr td { padding-top: 3px; padding-bottom: 3px; }
+/****************************************************************************************************************************/
+.hdstf { display: none; }
+/****************************************************************************************************************************/
+#tassedt tr td { padding-top: 6px; padding-bottom: 6px; }
+/****************************************************************************************************************************/
+#csmry { width: 100%; margin-bottom: 15px; text-align: left; }
+/****************************************************************************************************************************/
+#imghlp:hover { cursor: hand; cursor: pointer }
+/****************************************************************************************************************************/
+/****************************************************************************************************************************/
+/****************************************************************************************************************************/
+/****************************************************************************************************************************/
